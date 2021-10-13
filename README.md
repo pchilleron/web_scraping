@@ -4,12 +4,20 @@ M2.851 Tipología y ciclo de vida de los datos
 Práctica 1
 
 Pablo Chillerón Beviá
+
 Evgeny Muzarev Gevorgian
+
+
+
+
 
 
 Scraping de booking.com
 
+
+
 Primera aproximación.
+
 
 Ejecutar main.py en PyCharm o booking_scrap1.ipynb en jupyter notebook.
 
