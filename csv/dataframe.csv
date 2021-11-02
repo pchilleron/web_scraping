@@ -1,0 +1,701 @@
+Id,Date,Name,Stars,Address,Country,City,Postal_Code,Score,Comments,Beach,Coffee/Tea maker,Non Smoking Rooms,n,Airport Shuttle (free),Free WiFi Internet Access Included,Rooms/Facilities for Disabled,Restaurant,Free Parking,Room-service,Garden,Family Rooms,Beach front,Spa & Wellness Centre,Fitness Room,Bar,Airport Shuttle,Parking (fee required),Wireless Lan,Swimming pool,24 hour Front Desk,Private Beach Area,BBQ facilities,Terrace,Elevator,Pets allowed,Price
+0,2021-11-02,Ocean Drive Ibiza,nan,"Puerto Marina Botafoch, C/ Iboshim, 725, 07800 Ibiza, España",España,Ibiza,07800,"8,1",427,nan,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,78
+1,2021-11-02,Hotel El Faro Marbella,3,"Virgen del Pilar, 11, 29602 Marbella, España",España,Marbella,29602,"8,3",2.034,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,55
+2,2021-11-02,Vincci Málaga,4,"Pacífico, 44, Carretera de Cádiz, 29004 Málaga, España",España,Málaga,29004,"8,5",3.801,nan,1,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,99
+3,2021-11-02,Casa a Pedreira Rias Baixas,nan,"Folgar, 32, Cuntis - Pontevedra, 36675 Cuntis, España",España,Cuntis,36675,"9,3",42,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,86
+4,2021-11-02,Hotel Carlos III,3,"Rey Carlos, 22, 30880 Águilas, España",España,Águilas,30880,"8,3",1.136,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,64
+5,2021-11-02,La Villa,3,"Barrio San Xulian, 18, 27797 Villaframil, España",España,Villaframil,27797,"8,3",362,"8,8",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,30
+6,2021-11-02,Vila De Premiá,2,"Cami Ral 69, 08330 Premiá de Mar, España",España,Mar,08330,"7,7",838,"9,1",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,51
+7,2021-11-02,Caserio de Iznájar,2,"EL REMOLINO S/N URB. VALDEARENAS, 14970 Iznájar, España",España,Iznájar,14970,"8,6",715,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,59
+8,2021-11-02,Hotel Europa,2,"Avenida Fisterra, 31, 15142 Arteixo, España",España,Arteixo,15142,"8,7",497,"9,0",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+9,2021-11-02,Ave del Mar,1,"Rua do Carme 16, 15123 Camariñas, España",España,Camariñas,15123,"8,2",305,"9,1",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,60
+10,2021-11-02,El Oceano Beach Hotel,4,"Miraflores Playa, 29649 La Cala de Mijas, España",España,Mijas,29649,"9,1",326,nan,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,304
+11,2021-11-02,Hotel Noia,3,"Curros Enriquez, 27, 15200 Noia, España",España,Noia,15200,"8,9",734,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,55
+12,2021-11-02,Hotel Patricia,2,"Avenida Mar Del Sur s/n, Edificio Hotel Patricia, 11312 Torreguadiaro, España",España,Torreguadiaro,11312,"7,9",761,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,52
+13,2021-11-02,Hotel de Alba,3,"Alcañices 90 , 49165 Ricobayo, España",España,Ricobayo,49165,"8,8",135,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,60
+14,2021-11-02,Hipotels Eurotel Punta Rotja Thalasso-Spa-Golf,4,"Av. del Pinar, s/n, 07559 Costa de los Pinos, España",España,Pinos,07559,"8,7",1.405,nan,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,64
+15,2021-11-02,Hostal Ca'n Pep,nan,"Carrer del Calamar 8, 07639 Sa Ràpita, España",España,Ràpita,07639,"8,2",569,"8,9",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,62
+16,2021-11-02,Gran H La Marina 1920,nan,"100 Carrer la Mar, 03590 Altea, España",España,Altea,03590,"8,3",661,nan,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,75
+17,2021-11-02,Hotel Hospes Maricel y Spa,5,"Carretera d'Andratx, 11- (urb. Cas Català), 07181 Cas Català, España",España,Català,07181,"8,9",683,"8,5",1,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,333
+18,2021-11-02,Hotel Sa Coma,3,"Camí des Molí, 3, 07191 Banyalbufar, España",España,Banyalbufar,07191,"8,9",256,nan,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,114
+19,2021-11-02,Adia Hotel Cunit Playa,3,"Avenida Tarragona, 2, 43881 Cunit, España",España,Cunit,43881,"8,1",835,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,61
+20,2021-11-02,Motel Venus Madrid Norte,nan,"Calle la Venta, 27, 28880 Meco, España",España,Meco,28880,"8,4",661,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110
+21,2021-11-02,Miracielos,3,"Playa de Miracielos - Barro, 33595 Barro, España",España,Barro,33595,"8,8",594,"9,0",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,50
+22,2021-11-02,Hotel Mitus,1,"Riera de la Torre, 20, 08360 Canet de Mar, España",España,Mar,08360,"8,5",264,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,51
+23,2021-11-02,Ciudad de Castelldefels,3,"Paseo de la Marina, 212, 08860 Castelldefels, España",España,Castelldefels,08860,"8,3",1.342,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,70
+24,2021-11-02,Hotel Palacio Muñatones,1,"Barrio San Julian, 61, 48550 Muskiz, España",España,Muskiz,48550,"8,5",730,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,73
+25,2021-11-02,Hotel Palacio Muñatones,1,"Barrio San Julian, 61, 48550 Muskiz, España",España,Muskiz,48550,"8,5",730,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,73
+26,2021-11-02,El Hostal del Cubo,nan,"C/ El Sol, 2, 38420 San Juan de la Rambla, España",España,Rambla,38420,"8,7",87,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+27,2021-11-02,Hotel San Miguel,2,"Mar, 65, 03590 Altea, España",España,Altea,03590,"7,7",1.900,nan,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,35
+28,2021-11-02,ARTIEM Asturias,5,"Carretera N-632 Km 59,6, 33314  Quintueles, España",España,Quintueles,33314,"9,2",611,nan,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,104
+29,2021-11-02,Hotel Miramar,3,"Ctra. Vigo-Baiona, por la costa, km. 14,700, 36350 Playa América, España",España,América,36350,"7,4",933,"8,8",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,54
+30,2021-11-02,Hotel Rosa,3,"Congre, 3, 03700 Denia, España",España,Denia,03700,"8,7",1.376,nan,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,38
+31,2021-11-02,B&B Hotel Tarragona Centro Urbis,3,"Plaza Corsini, 10, 43001 Tarragona, España",España,Tarragona,43001,"8,1",1.169,"8,6",0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,1,68
+32,2021-11-02,AC Hotel La Línea by Marriott,3,"Los Caireles, 2, 11300 La Línea de la Concepción, España",España,Concepción,11300,"8,1",1.466,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,66
+33,2021-11-02,Hotel Elimar,3,"Avenida del Mediterraneo, 230, 29730 Rincón de la Victoria, España",España,Victoria,29730,"7,5",841,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,38
+34,2021-11-02,Four Points by Sheraton Barcelona Diagonal,3,"Diagonal, 161, Sant Martí, 08018 Barcelona, España",España,Barcelona,08018,"8,8",566,nan,0,1,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,1,0,0,0,0,0,92
+35,2021-11-02,Hotel Marina,2,"Avinguda Onze De Setembre, 48, 17230 Palamós, España",España,Palamós,17230,"8,4",2.411,"8,6",0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,50
+36,2021-11-02,Hotel La Familia,3,"San Pedro, 147, 03560 El Campello, España",España,Campello,03560,"8,7",729,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,50
+37,2021-11-02,La Familia Gallo Rojo,4,"Calle Benisa , 9, 03560 El Campello, España",España,Campello,03560,"8,1",1.716,"8,5",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,50
+38,2021-11-02,Quinta de San Amaro Hotel Y Restaurante,nan,"San Amaro,  6, 36968 Meaño, España",España,Meaño,36968,"9,3",257,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,95
+39,2021-11-02,Noa Boutique Hotel,4,"Avenida Concepción Arenal 51, 15179 Santa Cruz de Oleiros, España",España,Oleiros,15179,"9,4",840,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,105
+40,2021-11-02,Hotel Maritimo,1,"Valdés, 13, 03001 Alicante, España",España,Alicante,03001,"7,7",1.590,nan,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,1,0,40
+41,2021-11-02,Port Europa,3,"Avenida Europa, 21, 03710 Calpe, España",España,Calpe,03710,"8,0",2.983,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,54
+42,2021-11-02,Hotel Noguera El Albir,2,"Avenida de Europa, 210, 03581 El Albir, España",España,Albir,03581,"8,8",1.777,nan,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,50
+43,2021-11-02,Hotel Porto Calpe,3,"Explanada del Puerto, 7, 03710 Calpe, España",España,Calpe,03710,"8,7",3.016,"8,6",0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,30
+44,2021-11-02,Apartamentos Marina d'Or Beach Room Only 2ª Linea,nan,"Carrer l'Antina, 12594 Oropesa del Mar, España",España,Mar,12594,"7,2",82,"8,5",0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,71
+45,2021-11-02,Hotel Bahía Calpe by Pierre & Vacances,4,"Avenida de Valencia, 24, 03710 Calpe, España",España,Calpe,03710,"7,9",4.720,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,60
+46,2021-11-02,Seaside Los Jameos,4,"Calle Marte, 2 - Playa de los Pocillos, 35510 Puerto del Carmen, España",España,Carmen,35510,"9,1",739,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,189
+47,2021-11-02,ALEGRIA Caprici Verd,4,"Avda. Del Mar,3, 08398 Santa Susanna, España",España,Susanna,08398,"7,5",2.467,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,56
+48,2021-11-02,Hospedium Hotel La Marina Costa da Morte,2,"Avenida Fernando Blanco, 15270 Cee, España",España,Cee,15270,"8,9",1.039,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,38
+49,2021-11-02,Port Denia,3,"Ctra. Denia-Jávea, 48, 03700 Denia, España",España,Denia,03700,"7,9",4.172,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,68
+50,2021-11-02,Seaside Los Jameos,4,"Calle Marte, 2 - Playa de los Pocillos, 35510 Puerto del Carmen, España",España,Carmen,35510,"9,1",739,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,189
+51,2021-11-02,ALEGRIA Caprici Verd,4,"Avda. Del Mar,3, 08398 Santa Susanna, España",España,Susanna,08398,"7,5",2.467,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,56
+52,2021-11-02,Hotel Subur,3,"Paseo de la Ribera, s/n, 08870 Sitges, España",España,Sitges,08870,"7,8",2.542,"8,5",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,49
+53,2021-11-02,Hospedium Hotel La Marina Costa da Morte,2,"Avenida Fernando Blanco, 15270 Cee, España",España,Cee,15270,"8,9",1.039,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,38
+54,2021-11-02,Port Denia,3,"Ctra. Denia-Jávea, 48, 03700 Denia, España",España,Denia,03700,"7,9",4.172,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,65
+55,2021-11-02,California,2,"Paseo De Sancha, 17, Centro de Málaga, 29016 Málaga, España",España,Málaga,29016,"8,9",1.026,nan,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,59
+56,2021-11-02,Hotel Miramar Badalona,3,"Santa Madrona, 60 , 08911 Badalona, España",España,Badalona,08911,"8,0",1.772,"8,8",0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,78
+57,2021-11-02,Valentin Paguera Hotel & Suites - Adults Only,3,"Calle Peral, 3, 07160 Paguera, España",España,Paguera,07160,"8,7",530,"8,5",1,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,93
+58,2021-11-02,Santemar,4,"Joaquín Costa, 28, 39005 Santander, España",España,Santander,39005,"8,7",8.067,"9,0",0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,63
+59,2021-11-02,Petit Palace Tamarises,3,"Muelle de Ereaga, 4, 48992 Getxo, España",España,Getxo,48992,"8,2",1.721,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,68
+60,2021-11-02,Hotel RH Riviera - Adults Only,3,"Paseo Marítimo Neptuno, 28, 46730 Gandía, España",España,Gandía,46730,"8,6",1.214,"9,1",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,52
+61,2021-11-02,Rincón Sol,4,"Avenida del Mediterráneo, 174, 29730 Rincón de la Victoria, España",España,Victoria,29730,"8,2",1.515,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,48
+62,2021-11-02,Mendez Nuñez Alicante,2,"Rambla de Mendez Nuñez, 9, 03002 Alicante, España",España,Alicante,03002,"8,3",2.194,nan,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,80
+63,2021-11-02,Eurohotel Diagonal Port,4,"Lope de Vega, 4, Sant Martí, 08005 Barcelona, España",España,Barcelona,08005,"7,7",942,nan,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,84
+64,2021-11-02,Hotel Lauria,3,"Rambla Nova, 20, 43004 Tarragona, España",España,Tarragona,43004,"7,8",2.725,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,59
+65,2021-11-02,Red Level at Gran Melia Palacio de Isora - Adults Only,5,"La Costa, s/n, 38686 Alcalá, España",España,Alcalá,38686,"9,1",309,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,688
+66,2021-11-02,Hotel Silken El Pilar Andalucia,4,"10 Plaza de las Flores, 29680 Estepona, España",España,Estepona,29680,"9,1",282,nan,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,1,1,0,0,0,0,0,0,0,0,170
+67,2021-11-02,Hugo Beach Hotel,2,"8 Carrer Cullera, 46730 Gandía, España",España,Gandía,46730,"7,0",1.088,"9,1",0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,27
+68,2021-11-02,Hotel Riu Arecas - Adults Only,4,"Playa del Duque Tenerife, 38670 Adeje, España",España,Adeje,38670,"8,5",863,"8,5",0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,190
+69,2021-11-02,LABRANDA Bahía y Villas Fañabé,3,"Avenida Bruselas, 5-7, 38670 Adeje, España",España,Adeje,38670,"6,8",1.728,"8,5",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,171
+70,2021-11-02,Hotel Hostalillo,3,"Bellavista, 22, 17212 Tamariu, España",España,Tamariu,17212,"8,9",3.539,"9,0",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,56
+71,2021-11-02,Hotel RH Ifach,4,"Juan Carlos I, s/n, 03710 Calpe, España",España,Calpe,03710,"8,7",2.535,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,60
+72,2021-11-02,Hipotels Mediterraneo Hotel - Adults Only,4,"Avenida Ses Savines, s/n, 07560 Sa Coma, España",España,Coma,07560,"8,9",822,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,56
+73,2021-11-02,Ampuria Inn,3,"Avinguda Tramuntana- Puigmal, 5, 17487 Empuriabrava, España",España,Empuriabrava,17487,"7,9",2.424,nan,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,37
+74,2021-11-02,Hotel Solymar,2,"Ferraz nº 34, Carretera de Cádiz, 29002 Málaga, España",España,Málaga,29002,"7,9",1.840,nan,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,52
+75,2021-11-02,Hotel Marconi,3,"San Pedro 28, 03501 Benidorm, España",España,Benidorm,03501,"7,9",1.350,"8,7",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,35
+76,2021-11-02,Ilunion Caleta Park,4,"Platja de Sant Pol, s/n, 17248 Sant Feliu de Guíxols, España",España,Guíxols,17248,"8,3",2.009,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,1,0,0,0,0,0,0,73
+77,2021-11-02,Gran Melia Palacio de Isora Resort & Spa,5,"Avenida Los Océanos s/n, 38686 Alcalá, España",España,Alcalá,38686,"8,4",750,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,365
+78,2021-11-02,Playa de la Luz,4,"Avenida de la Diputación, s/n, 11520 Rota, España",España,Rota,11520,"8,8",1.668,"8,7",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,85
+79,2021-11-02,Amàre Beach Hotel Marbella - Adults Only,4,"Avenida Severo Ochoa, 8, 29603 Marbella, España",España,Marbella,29603,"9,1",1.900,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,166
+80,2021-11-02,Hotel Riu Monica - Adults Only,4,"Playa de la Torrecilla, 29780 Nerja, España",España,Nerja,29780,"8,9",2.052,"8,5",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,96
+81,2021-11-02,Carlos V Malaga,2,"Cister, 10, Centro de Málaga, 29015 Málaga, España",España,Málaga,29015,"8,3",2.277,nan,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,52
+82,2021-11-02,UR Palacio Avenida,4,"Marqués de Fontsanta, 2, 07005 Palma de Mallorca, España",España,Mallorca,07005,"8,0",1.570,nan,0,1,0,0,1,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,109
+83,2021-11-02,Hotel Palacio de Luces G.L Relais & Châteaux,5,"Ctra A S 257 S/N, 33328 Luces, España",España,Luces,33328,"9,0",610,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,129
+84,2021-11-02,Hotel El Puerto by Pierre Vacances,3,"Paseo Marítimo Rey de España, 32, 29640 Fuengirola, Málaga, España, 29640 Fuengirola, España",España,Fuengirola,29640,"7,7",4.898,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,61
+85,2021-11-02,Hotel María Cristina,2,"Avenida de Málaga, 18, 29720 La Cala del Moral, España",España,Moral,29720,"7,8",681,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,34
+86,2021-11-02,Astari,3,"Via Augusta, 95-97, 43003 Tarragona, España",España,Tarragona,43003,"8,4",2.949,"8,6",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,70
+87,2021-11-02,Aparthotel Costa Encantada,4,"Cami Les Alegries-Sta Cristina,S/N, 17310 Lloret de Mar, España",España,Mar,17310,"8,4",3.595,"8,7",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,77
+88,2021-11-02,Ohtels Gran Hotel Almeria,4,"Avenida Reina Regente, 8, 04001 Almería, España",España,Almería,04001,"8,0",3.624,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+89,2021-11-02,Ilunion Fuengirola,4,"Paseo Marítimo Rey de España, 87, 29640 Fuengirola, España",España,Fuengirola,29640,"8,1",4.073,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,68
+90,2021-11-02,Helios Mallorca Hotel & Apartments,3,"Carabela, 7, 07610 Can Pastilla, España",España,Pastilla,07610,"8,8",6.128,"8,5",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,69
+91,2021-11-02,Hotel Java,4,"Goleta, s/n, 07610 Can Pastilla, España",España,Pastilla,07610,"8,4",1.952,"8,5",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,104
+92,2021-11-02,Exe Estepona Thalasso & Spa- Adults Only,4,"A-7 Autovía del Mediterráneo, Km. 165 ( Salida “Cancelada”), 29680 Estepona, España",España,Estepona,29680,"8,4",1.497,nan,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,89
+93,2021-11-02,Hotel Queens - Adults Only By Mc,2,"Plaza de la Constitución, 5, 03501 Benidorm, España",España,Benidorm,03501,"8,0",1.022,"8,6",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,40
+94,2021-11-02,Soho Boutique Puerto,3,"Calle Los Moros, 1, 11500 El Puerto de Santa María, España",España,María,11500,"8,2",3.207,"8,7",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,52
+95,2021-11-02,Hotel Marina,3,"Avinguda de Rhodes, 81, 17480 Roses, España",España,Roses,17480,"8,6",2.572,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,75
+96,2021-11-02,El Pinche de Oro,2,"Paseo Maritimo.46, 12580 Benicarló, España",España,Benicarló,12580,"8,1",818,nan,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,54
+97,2021-11-02,NH Las Palmas Playa las Canteras,3,"Prudencio Morales, 41, 35009 Las Palmas de Gran Canaria, España",España,Canaria,35009,"8,1",431,"9,0",0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,82
+98,2021-11-02,Hotel Isabel,2,"Juan Hormaechea, 19, 39195 Isla, España",España,Isla,39195,"6,8",1.380,"8,6",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+99,2021-11-02,Sunset Bay Club By Diamond Resorts,3,"Antonio Navarro, 1 - Urbanización Torviscas Bajo, Playa de Las Américas, 38660 Adeje, España",España,Adeje,38660,"8,5",2.164,Playa,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,164
+100,2021-11-02,Hotel Ereza Mar,4,"Avenida Jose Franchy Roca, 6, P35610 Caleta de Fuste, España",España,Fuste,P35610,"8,7",2.532,nan,1,0,0,0,1,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,194
+101,2021-11-02,AR Roca Esmeralda & Spa Hotel,3,"Ponent,1, 03700 Calpe, España",España,Calpe,03700,"8,1",1.289,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,49
+102,2021-11-02,AC Hotel Ciutat de Palma by Marriott,4,"Plaza Pont, 3, 07014 Palma de Mallorca, España",España,Mallorca,07014,"8,5",354,nan,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,166
+103,2021-11-02,Hotel Sant Roc,3,"Plaça de l'Atlàntic, 2, 17210 Calella de Palafrugell, España",España,Palafrugell,17210,"8,8",753,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,125
+104,2021-11-02,BULL Astoria,3,"Fernando Guanarteme, 54, 35010 Las Palmas de Gran Canaria, España",España,Canaria,35010,"7,4",726,"9,0",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,65
+105,2021-11-02,Hotel Rambla Alicante Contactless,2,"Avenida Rambla Méndez Núñez, 9, 03002 Alicante, España",España,Alicante,03002,"8,5",866,nan,1,1,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,48
+106,2021-11-02,Hotel Celimar,3,"Passeig de La Ribera, 20, 08870 Sitges, España",España,Sitges,08870,"7,6",843,"8,5",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,52
+107,2021-11-02,Hotel Teruel,2,"Madrid, 11, 12500 Vinaròs, España",España,Vinaròs,12500,"8,8",423,"8,8",0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,46
+108,2021-11-02,Ohtels Campo De Gibraltar,4,"Avenida Príncipe de Asturias S/N, 11300 La Línea de la Concepción, España",España,Concepción,11300,"8,1",5.319,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+109,2021-11-02,Hotel Helios - Almuñecar,3,"Paseo San Cristobal, 12, 18690 Almuñécar, España",España,Almuñécar,18690,"9,3",4.877,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,76
+110,2021-11-02,Hotel Lodomar Spa & Talasoterapia,4,"Río Bidasoa, 1, 30740 San Pedro del Pinatar, España",España,Pinatar,30740,"7,9",1.245,nan,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,60
+111,2021-11-02,Medplaya Hotel Riviera - Adults Only,4,"Avenida Antonio Machado, 49, 29630 Benalmádena, España",España,Benalmádena,29630,"8,6",1.121,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,80
+112,2021-11-02,Hotel DAOS,nan,"32 Calle Pirita 32, 29603 Marbella, España",España,Marbella,29603,"6,9",286,nan,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,69
+113,2021-11-02,Hotel Apartamentos Bajondillo,4,"Pasaje Bajondillo, 4, 29620 Torremolinos, España",España,Torremolinos,29620,"8,6",9.403,nan,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,55
+114,2021-11-02,Torrejoven,3,"Carretera Alicante-Cartagena, Km 4.7, 03180 Torrevieja, España",España,Torrevieja,03180,"6,9",960,"8,7",0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,48
+115,2021-11-02,"Finca Serena, Small Luxury Hotels",5,"Carretera Pina-Montuïri  KM  3, 07230 Montuiri, España",España,Montuiri,07230,"9,2",105,nan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,407
+116,2021-11-02,Hotel Montecarlo Spa & Wellness,4,"Avinguda de la Platja, 2, 17480 Roses, España",España,Roses,17480,"8,2",4.114,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,99
+117,2021-11-02,Hotel Apartamentos Manilva Sun,3,"Camino de Pedraza, s/n (Urbanización Duquesa Hills, 29691 Manilva, España",España,Manilva,29691,"8,0",1.414,Playa,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,62
+118,2021-11-02,H10 Taburiente Playa,4,"Playa de los Cancajos, 38712 Breña Baja, España",España,Baja,38712,"8,0",2.875,nan,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,91
+119,2021-11-02,Hotel Serawa Moraira,4,"Cabo Estaca de Bares, 11, 03724 Moraira, España",España,Moraira,03724,"8,6",231,"8,6",0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,149
+120,2021-11-02,Lopesan Costa Meloneras Resort & Spa,4,"Mar Mediterráneo, 1, 35100 Meloneras, España",España,Meloneras,35100,"8,7",768,"8,9",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,273
+121,2021-11-02,Hotel Cristal 2,2,"Avenida San Roque de Afuera, s/n, 15011 A Coruña, España",España,Coruña,15011,"7,3",1.514,"8,5",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,35
+122,2021-11-02,Silken Saaj Las Palmas,4,"329 Calle León y Castillo, 35006 Las Palmas de Gran Canaria, España",España,Canaria,35006,"8,5",1.649,"9,0",1,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,89
+123,2021-11-02,Xon's Platja HA,3,"Pompeu Fabra, s/n, 17487 Empuriabrava, España",España,Empuriabrava,17487,"7,3",2.136,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+124,2021-11-02,Occidental Jandía Mar,4,"Playa del Jable, s/n, 35625 Morro del Jable, España",España,Jable,35625,"7,9",869,"9,2",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,91
+125,2021-11-02,Medplaya Hotel Riviera - Adults Only,4,"Avenida Antonio Machado, 49, 29630 Benalmádena, España",España,Benalmádena,29630,"8,6",1.121,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,80
+126,2021-11-02,Hotel DAOS,nan,"32 Calle Pirita 32, 29603 Marbella, España",España,Marbella,29603,"6,9",286,nan,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,69
+127,2021-11-02,Hotel Apartamentos Bajondillo,4,"Pasaje Bajondillo, 4, 29620 Torremolinos, España",España,Torremolinos,29620,"8,6",9.403,nan,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,55
+128,2021-11-02,Torrejoven,3,"Carretera Alicante-Cartagena, Km 4.7, 03180 Torrevieja, España",España,Torrevieja,03180,"6,9",960,"8,7",0,1,0,0,1,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,48
+129,2021-11-02,"Finca Serena, Small Luxury Hotels",5,"Carretera Pina-Montuïri  KM  3, 07230 Montuiri, España",España,Montuiri,07230,"9,2",105,nan,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,391
+130,2021-11-02,Hotel Montecarlo Spa & Wellness,4,"Avinguda de la Platja, 2, 17480 Roses, España",España,Roses,17480,"8,2",4.114,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,99
+131,2021-11-02,Hotel Apartamentos Manilva Sun,3,"Camino de Pedraza, s/n (Urbanización Duquesa Hills, 29691 Manilva, España",España,Manilva,29691,"8,0",1.414,Playa,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,55
+132,2021-11-02,H10 Taburiente Playa,4,"Playa de los Cancajos, 38712 Breña Baja, España",España,Baja,38712,"8,0",2.875,nan,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,91
+133,2021-11-02,Hotel Serawa Moraira,4,"Cabo Estaca de Bares, 11, 03724 Moraira, España",España,Moraira,03724,"8,6",231,"8,6",0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,149
+134,2021-11-02,Lopesan Costa Meloneras Resort & Spa,4,"Mar Mediterráneo, 1, 35100 Meloneras, España",España,Meloneras,35100,"8,7",768,"8,9",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,273
+135,2021-11-02,Hotel Cristal 2,2,"Avenida San Roque de Afuera, s/n, 15011 A Coruña, España",España,Coruña,15011,"7,3",1.514,"8,5",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,35
+136,2021-11-02,Silken Saaj Las Palmas,4,"329 Calle León y Castillo, 35006 Las Palmas de Gran Canaria, España",España,Canaria,35006,"8,5",1.649,"9,0",1,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,89
+137,2021-11-02,Xon's Platja HA,3,"Pompeu Fabra, s/n, 17487 Empuriabrava, España",España,Empuriabrava,17487,"7,3",2.136,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+138,2021-11-02,Occidental Jandía Mar,4,"Playa del Jable, s/n, 35625 Morro del Jable, España",España,Jable,35625,"7,9",869,"9,2",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,91
+139,2021-11-02,Hoposa Hotel & Apartaments VillaConcha,4,"Nanses s/n, 07470 Puerto Pollensa, España",España,Pollensa,07470,"8,9",466,nan,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,77
+140,2021-11-02,Hotel Riu Gran Canaria - All Inclusive,4,"Urb. Las Meloneras, 35100 Maspalomas, España",España,Maspalomas,35100,"8,4",1.165,"8,9",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,260
+141,2021-11-02,Los Amigos Beach Club By Diamond Resorts,3,"Urbanizacion Playamarina, s/n - Carretera de Cádiz, Km. 204, 29647 La Cala de Mijas, España",España,Mijas,29647,"8,9",2.541,Playa,0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,85
+142,2021-11-02,Port Fiesta Park,3,"Avenida Foietes, 4, 03502 Benidorm, España",España,Benidorm,03502,"7,3",2.766,"8,7",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,46
+143,2021-11-02,Occidental Fuengirola,4,"Miguel Marquez, 43, 29640 Fuengirola, España",España,Fuengirola,29640,"8,7",3.184,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,80
+144,2021-11-02,Ilunion Calas de Conil,4,"Avenida de Europa, s/n, 11140 Conil de la Frontera, España",España,Frontera,11140,"8,4",5.254,"9,1",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,58
+145,2021-11-02,Hotel Natursun,3,"AVENIDA CARLOTA ALESSANDRI, Nº1 ESQUINA PASAJE SANTA MÓNICA, 29620 Torremolinos, España",España,Torremolinos,29620,"7,8",3.185,"8,6",0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,40
+146,2021-11-02,Paloma Blanca Boutique Hotel,nan,"Urbanizacion Cortijo Blanco, C/ Pablo Picasso 12-14 , 29670 Marbella, España",España,Marbella,29670,"8,8",1.514,"8,7",0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,80
+147,2021-11-02,Duna Hotel Boutique,nan,"Avenida de la mar 35, 12598 Peñíscola, España",España,Peñíscola,12598,"8,7",1.761,nan,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,57
+148,2021-11-02,URH Excelsior,3,"Passeig Verdaguer, 16, 17310 Lloret de Mar, España",España,Mar,17310,"7,3",1.241,"8,7",0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,51
+149,2021-11-02,H10 Playa Esmeralda - Adults Only,4,"Punta del Roquito, 2, 35627 Costa Calma, España",España,Calma,35627,"8,6",1.873,"8,7",0,1,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,176
+150,2021-11-02,Adiafa,3,"Avenida del Faro, 1, 11160 Barbate, España",España,Barbate,11160,"8,5",549,"8,9",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,59
+151,2021-11-02,Riu Vistamar - All Inclusive,4,"Avenida de la Cornisa, 35130 Puerto Rico, España",España,Rico,35130,"8,5",1.004,"8,8",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,220
+152,2021-11-02,Hotel Riu Nautilus - Adults Only,4,"Avenida Salvador Allende 39, Torremolinos, 29620 Torremolinos, España",España,Torremolinos,29620,"8,5",996,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,86
+153,2021-11-02,Moon Dreams Calabahía,4,"Manuel Fernández Moreno, 6-7, 29720 La Cala del Moral, España",España,Moral,29720,"8,0",2.083,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,47
+154,2021-11-02,Hotel Riu Palace Oasis,5,"Plaza de las Palmeras, 2, 35100 Meloneras, España",España,Meloneras,35100,"9,0",1.891,"8,9",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,317
+155,2021-11-02,Hotel Fuerte Marbella,4,"Calle El Fuerte, s/n, 29602 Marbella, España",España,Marbella,29602,"8,9",1.198,nan,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,183
+156,2021-11-02,Barceló Teguise Beach - Adults Only,4,"Plaza Janubio s/n, 35508 Costa Teguise, España",España,Teguise,35508,"8,9",3.023,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,229
+157,2021-11-02,Las Dunas Hotel Health & Spa,5,"Urbanización Boladilla Baja, Crta. Marbella-Estepona, km 163,5,, 29689 Estepona, España",España,Estepona,29689,"9,0",218,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,490
+158,2021-11-02,"Msh Mallorca Senses Hotel, Palmanova - Adults Only",4,"Hermanos Moncada, 17, 07181 Palmanova, España",España,Palmanova,07181,"8,4",690,"8,8",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,102
+159,2021-11-02,Palladium Hotel Costa del Sol,4,"Carretera de Cádiz, Km 217, 29630 Benalmádena, España",España,Benalmádena,29630,"8,6",1.981,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,81
+160,2021-11-02,Hotel Norai,2,"Sant Pere, 81, 17310 Lloret de Mar, España",España,Mar,17310,"7,4",1.115,"8,7",0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,39
+161,2021-11-02,Hotel Balcón de Europa,4,"Paseo Balcón de Europa, 1, 29780 Nerja, España",España,Nerja,29780,"8,8",1.729,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,91
+162,2021-11-02,Itaca Fuengirola,3,"Avenida Santa Amalia, 2, 29640 Fuengirola, España",España,Fuengirola,29640,"7,3",736,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,1,47
+163,2021-11-02,FERGUS Style Soller Beach,4,"Marina, 4, 07108 Puerto de Sóller, España",España,Sóller,07108,"8,8",463,nan,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,97
+164,2021-11-02,Hipotels Barrosa Park,4,"Urbanización Novo Sancti Petri s/n Edificio 1, Novo Sancti Petri, 11130 Chiclana de la Frontera, España",España,Frontera,11130,"9,0",1.664,"9,4",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,73
+165,2021-11-02,Corallium Beach by Lopesan Hotels,3,"Los Jazmines, 25, 35100 San Agustín, España",España,Agustín,35100,"8,5",205,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,275
+166,2021-11-02,Hotel Carlos I Silgar,4,"Vigo, s/n, 36960 Sanxenxo, España",España,Sanxenxo,36960,"9,2",1.914,"8,6",0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,57
+167,2021-11-02,Hotel Catalunya Express,nan,"General Contreras, 16, 43004 Tarragona, España",España,Tarragona,43004,"7,6",1.380,"8,6",0,1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,63
+168,2021-11-02,Hotel Best Triton,4,"Avenida Antonio Machado, 29, 29630 Benalmádena, España",España,Benalmádena,29630,"8,1",2.841,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,75
+169,2021-11-02,Macia Doñana,4,"Orfeón Santa Cecilia s/n, 11540 Sanlúcar de Barrameda, España",España,Barrameda,11540,"8,5",1.813,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+170,2021-11-02,Park Hotel San Jorge & Spa,4,"Avenida de Andorra, 28, 17250 Platja d'Aro, España",España,d'Aro,17250,"8,8",4.874,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,1,91
+171,2021-11-02,Barceló Illetas Albatros Adults Only,4,"Paseo de Illetas, 15, 07181 Illetas, España",España,Illetas,07181,"8,4",1.110,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,95
+172,2021-11-02,Iberostar Selection Marbella Coral Beach,4,"Carreterra Nacional Cádiz - Málaga, Km 176, 29602 Marbella, España",España,Marbella,29602,"8,6",627,"8,7",0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,202
+173,2021-11-02,Hotel Kaktus Albir,4,"Paseo De Las Estrellas, 11, 03581 El Albir, España",España,Albir,03581,"8,1",1.807,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,82
+174,2021-11-02,Hospedium Hotel Continental,3,"Paseo del Mediterráneo, 78, 04638 Mojácar, España",España,Mojácar,04638,"8,8",1.144,nan,0,1,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,88
+175,2021-11-02,Hotel Medes II,3,"Guillem de Montgrí, 38, 17258 L'Estartit, España",España,L'Estartit,17258,"8,1",541,"8,5",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,81
+176,2021-11-02,Royal Sunset Beach Club By Diamond Resorts,3,"Londres, 6 - Playa Fanabe, 38660 Adeje, España",España,Adeje,38660,"8,8",1.997,Playa,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,143
+177,2021-11-02,Hotel Isla Bella & Spa,3,"Paseo del Sable, 2, 39195 Isla, España",España,Isla,39195,"8,2",1.424,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,55
+178,2021-11-02,Fuengirola Beach Apartamentos Turísticos,3,"Avenida de La Encarnación, 2, 29640 Fuengirola, España",España,Fuengirola,29640,"8,5",1.648,Playa,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,60
+179,2021-11-02,AQUA Hotel Bertran Park,4,"Sant Josep, 49, 17310 Lloret de Mar, España",España,Mar,17310,"8,5",851,"8,7",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+180,2021-11-02,Hotel Boutique Convento Cádiz,1,"Santo Domingo, 2, 11006 Cádiz, España",España,Cádiz,11006,"8,9",2.174,"8,7",1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,95
+181,2021-11-02,HM Gran Fiesta,4,"Marbella, 28, 07610 Playa de Palma, España",España,Palma,07610,"8,2",1.001,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,73
+182,2021-11-02,Elba Estepona Gran Hotel & Thalasso Spa,5,"Carretera Estepona-Cádiz, 151, 29680 Estepona, España",España,Estepona,29680,"8,3",2.134,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,123
+183,2021-11-02,Boutique Hotel B51,4,"Avenida Benabola, 29660 Marbella, España",España,Marbella,29660,"8,0",654,"8,7",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,105
+184,2021-11-02,Hotel Internacional,2,"Paseo de la Carretera, 40, 03501 Benidorm, España",España,Benidorm,03501,"8,0",350,"8,7",0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,34
+185,2021-11-02,Hotel Bella Dolores,2,"Plaza De España, 5, 17310 Lloret de Mar, España",España,Mar,17310,"9,0",480,"8,7",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,45
+186,2021-11-02,Eurostars Mediterranea Plaza,4,"Plaza del Ayuntamiento, 6, 03002 Alicante, España",España,Alicante,03002,"8,7",637,nan,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,94
+187,2021-11-02,Ilunion Islantilla,4,"Avenida Islantilla, s/n, 21449 Islantilla, España",España,Islantilla,21449,"8,3",4.159,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+188,2021-11-02,Sunset Harbour Club By Diamond Resorts,3,"Valencia, 3 - Pueblo Torviscas, 38660 Adeje, España",España,Adeje,38660,"8,7",976,Playa,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,150
+189,2021-11-02,Hotel Muva Beach,1,"Porteta, 5, 12598 Peñíscola, España",España,Peñíscola,12598,"8,4",1.203,nan,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,0,85
+190,2021-11-02,Alua Leo,4,"Manuela de los Herreros, 12, 07610 Can Pastilla, España",España,Pastilla,07610,"8,3",4.133,"8,5",0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,60
+191,2021-11-02,H10 Lanzarote Princess,4,"Maciot, s/n, 35570 Playa Blanca, España",España,Blanca,35570,"8,4",585,"8,8",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,170
+192,2021-11-02,Atenea Park Suites & Apartments,3,"Juan Sebastian Elcano, 4, 08800 Vilanova i la Geltrú, España",España,Geltrú,08800,"8,5",1.447,Primera línea de playa,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,67
+193,2021-11-02,JovA Hotel Boutique,3,"Sant Pere, 39, 03560 El Campello, España",España,Campello,03560,"8,9",444,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,73
+194,2021-11-02,NH Imperial Playa,4,"Ferreras, 1, 35008 Las Palmas de Gran Canaria, España",España,Canaria,35008,"8,1",959,"9,0",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,112
+195,2021-11-02,Melia Sitges,4,"Joan Salvat Papasseit, 38, 08870 Sitges, España",España,Sitges,08870,"8,4",1.637,"8,5",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,117
+196,2021-11-02,Hotel Riu Festival,4,"7 Camí de les Meravelles Playa de Palma, 07610 Playa de Palma, España",España,Palma,07610,"8,6",1.290,"8,5",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,59
+197,2021-11-02,Hotel Maritim,4,"Jacinto Benavente 2-10, 17480 Roses, España",España,Roses,17480,"8,0",2.688,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,106
+198,2021-11-02,Abora Interclub Atlantic by Lopesan Hotels,4,"Los Jazmines, 2, 35100 San Agustín, España",España,Agustín,35100,"8,0",872,"8,6",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,210
+199,2021-11-02,Hotel Lancelot,3,"Avenida Mancomunidad, 9, 35500 Arrecife, España",España,Arrecife,35500,"8,6",1.728,nan,0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,87
+200,2021-11-02,Elba Costa Ballena Beach & Thalasso Resort,4,"Avenida Carla de Orleans Parcelan Rg23, 11520 Costa Ballena, España",España,Ballena,11520,"8,5",2.590,"8,6",1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,70
+201,2021-11-02,Hotel Best Front Maritim,4,"Paseo García I Faria, 69-71, Sant Martí, 08019 Barcelona, España",España,Barcelona,08019,"7,5",1.169,nan,1,1,0,0,1,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,91
+202,2021-11-02,Hotel Alay - Adults Only,4,"Puerto Marina - Avenida Alay 5, 29630 Benalmádena, España",España,Benalmádena,29630,"8,5",2.485,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,127
+203,2021-11-02,Hotel Coral Playa,3,"Carretera de la Barrosa 179, 11139 Chiclana de la Frontera, España",España,Frontera,11139,"8,9",528,"9,4",1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,52
+204,2021-11-02,Sol Playa,2,"Paseo de Neptuno 56, Poblados marítimos, 46011 Valencia, España",España,Valencia,46011,"7,9",2.782,"8,6",0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,52
+205,2021-11-02,Senator Parque Central Hotel,4,"Plaza Manuel Sanchis Guarner, Eixample, 46006 Valencia, España",España,Valencia,46006,"8,0",4.006,nan,0,1,0,0,1,0,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,85
+206,2021-11-02,Sol Fuerteventura Jandia - All Suites,4,"Bentejui, 8, 35625 Morro del Jable, España",España,Jable,35625,"7,9",103,"9,6",0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,185
+207,2021-11-02,Hotel Castilla Alicante,3,"Avenida Países Escandinavos, 7, 03540 Alicante, España",España,Alicante,03540,"8,1",1.885,"9,1",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,63
+208,2021-11-02,Hotel Patagonia Sur,3,"Cobos, 11, 11005 Cádiz, España",España,Cádiz,11005,"8,0",1.087,"8,7",1,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,63
+209,2021-11-02,Hotel Don Manuel,4,"Linares Rivas, 4, 33206 Gijón, España",España,Gijón,33206,"7,5",700,"8,7",0,1,0,0,1,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,55
+210,2021-11-02,Hotel Spa Porto Cristo,4,"Major, 59, 17489 Port de la Selva, España",España,Selva,17489,"8,2",1.586,"9,0",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,99
+211,2021-11-02,Don Paco,3,"Colegio de la Encarnación, 1, 33500 Llanes, España",España,Llanes,33500,"9,2",969,"8,8",0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,67
+212,2021-11-02,Room Mate Gorka,4,"11 Gipuzkoa Plaza, 20004 San Sebastián, España",España,Sebastián,20004,"9,2",942,"9,1",1,1,0,0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,113
+213,2021-11-02,Eurostars Ciudad de La Coruña,4,"Juan Sebastián Elcano, 13, 15002 A Coruña, España",España,Coruña,15002,"8,4",3.275,"8,5",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,60
+214,2021-11-02,Iberostar Bouganville Playa,4,"Eugenio Domínguez, 23, 38660 Adeje, España",España,Adeje,38660,"8,7",988,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,235
+215,2021-11-02,Hotel Malaga Picasso,3,"Calle Acacias de Guadalmar, 153, Churriana, 29004 Málaga, España",España,Málaga,29004,"9,0",1.299,nan,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,72
+216,2021-11-02,Hotel Las Palmas,2,"CR/ Faro Mesa Roldán, 21, 04140 Carboneras, España",España,Carboneras,04140,"8,9",191,nan,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,75
+217,2021-11-02,Hotel MS Maestranza Málaga,4,"Avenida Cánovas del Castillo, 1, Centro de Málaga, 29016 Málaga, España",España,Málaga,29016,"8,5",2.230,nan,0,1,0,0,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,110
+218,2021-11-02,Hotel & Diving Les Illes,3,"Illes, 55, 17258 L'Estartit, España",España,L'Estartit,17258,"7,4",599,"8,5",0,0,0,0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,99
+219,2021-11-02,Sumus Hotel Stella & Spa 4*Superior,4,"Puntaires,1, 08397 Pineda de Mar, España",España,Mar,08397,"8,7",1.244,nan,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,66
+220,2021-11-02,Hotel Madrid,3,"C/ Villa Madrid 15, 03180 Torrevieja, España",España,Torrevieja,03180,"7,9",1.347,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,60
+221,2021-11-02,Hotel Rovira,3,"Avenida Diputación, 6, 43850 Cambrils, España",España,Cambrils,43850,"8,3",1.058,nan,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,80
+222,2021-11-02,Aparthotel Residencial Vidalbir,3,"Plaza Venus, 7, 03581 El Albir, España",España,Albir,03581,"7,1",726,Playa,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,49
+223,2021-11-02,Hotel Madrid,1,"Zarandona, 18, 30720 Santiago de la Ribera, España",España,Ribera,30720,"7,2",701,nan,1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,20
+224,2021-11-02,MS Aguamarina Suites,4,"El Bajondillo, 57, 29620 Torremolinos, España",España,Torremolinos,29620,"8,8",1.413,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,62
+225,2021-11-02,"GRAN HOTEL GUADALPIN BANUS, Marbella",5,"Edgar Neville, s/n , 29660 Marbella, España",España,Marbella,29660,"8,1",2.039,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,158
+226,2021-11-02,Roger de Flor Seleqtta,4,"Turó de l'Estelat, s/n, 17310 Lloret de Mar, España",España,Mar,17310,"7,5",303,nan,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,66
+227,2021-11-02,Barceló Castillo Beach Resort,4,"Avenida del Castillo, s/n, 35610 Caleta de Fuste, España",España,Fuste,35610,"8,3",1.169,nan,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,129
+228,2021-11-02,Sol Puerto de la Cruz Tenerife,3,"José del Campo Llanera, 2, 38400 Puerto de la Cruz, España",España,Cruz,38400,"8,0",1.036,nan,0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,66
+229,2021-11-02,Mainake Costa del Sol,4,"Fenicios s/n, 29740 Torre del Mar, España",España,Mar,29740,"8,4",1.100,nan,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,65
+230,2021-11-02,Hotel Paraíso Del Mar,2,"Prolongación De Carabeo, 22, 29780 Nerja, España",España,Nerja,29780,"9,1",638,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,99
+231,2021-11-02,Gastrohotel Boutique RH Canfali,4,"Plaza San Jaime, 5, 03501 Benidorm, España",España,Benidorm,03501,"9,1",1.578,"8,6",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,0,0,0,63
+232,2021-11-02,Hotel Benikaktus,3,"Alcalde Manuel Catalan Chana 12, 03503 Benidorm, España",España,Benidorm,03503,"8,2",1.126,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,82
+233,2021-11-02,Be Live Experience La Niña,4,"Avenida de España, s/n - Urb. San Eugenio, 38660 Adeje, España",España,Adeje,38660,"7,5",1.161,"8,5",0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,161
+234,2021-11-02,Hotel Iris,3,"Amilcar, 3, 07600 El Arenal, España",España,Arenal,07600,"8,0",701,"8,5",0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,43
+235,2021-11-02,Ona Alanda Club Marbella,4,"Avenida de los Jardines de las Golondrinas, 1, 29604 Marbella, España",España,Marbella,29604,"8,7",1.755,nan,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,85
+236,2021-11-02,Aparthotel BCL Levante Club,3,"Estocolmo, 8, 03581 Benidorm, España",España,Benidorm,03581,"8,2",1.723,Primera línea de playa,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,51
+237,2021-11-02,Silken Río Santander,4,"Avenida Reina Victoria, 153, 39005 Santander, España",España,Santander,39005,"8,3",2.996,"9,0",0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,63
+238,2021-11-02,HM Tropical,4,"Calle Marbella, 16, 07610 Playa de Palma, España",España,Palma,07610,"8,1",896,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,73
+239,2021-11-02,Hotel Valencia Center,4,"Avenida de Francia, 33, Camins al Grau, 46023 Valencia, España",España,Valencia,46023,"8,4",5.599,"8,6",0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,85
+240,2021-11-02,Sol Marbella Estepona Atalaya Park,4,"Avenida de las Golondrinas, 2, 29688 Estepona, España",España,Estepona,29688,"8,1",995,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,80
+241,2021-11-02,Hotel Trias,4,"Passeig del Mar, s/n, 17230 Palamós, España",España,Palamós,17230,"8,6",2.243,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+242,2021-11-02,Mercure Monte Igueldo,4,"Paseo del Faro, 134, 20008 San Sebastián, España",España,Sebastián,20008,"8,2",2.108,"8,8",0,1,0,0,1,1,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,120
+243,2021-11-02,Smy Puerto de la Cruz,4,"Avenida Marqués de Villanueva del Prado, 38400 Puerto de la Cruz, España",España,Cruz,38400,"7,6",1.885,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,69
+244,2021-11-02,Sallés Hotel Pere IV,4,"Pallars, 128-130, Sant Martí, 08018 Barcelona, España",España,Barcelona,08018,"8,4",5.329,nan,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,108
+245,2021-11-02,Iberostar Selection Sábila - Adults Only,5,"Avenida Ernesto Sartí, 5, 38660 Adeje, España",España,Adeje,38660,"9,2",1.860,"8,5",0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,223
+246,2021-11-02,Hotel Amoros,3,"Ses Llegitimes, 37, 07590 Cala Ratjada, España",España,Ratjada,07590,"8,3",238,"8,9",0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,52
+247,2021-11-02,Hotel Miramar,3,"Avda. Coll, 2, 35500 Arrecife, España",España,Arrecife,35500,"8,3",1.166,nan,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,87
+248,2021-11-02,Exe Las Palmas,4,"Sagasta, 28, 35008 Las Palmas de Gran Canaria, España",España,Canaria,35008,"8,1",1.983,"9,0",0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,89
+249,2021-11-02,Hotel Riu Palace Tenerife,5,"Playa del Duque, 38670 Adeje, España",España,Adeje,38670,"8,8",702,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,318
+250,2021-11-02,Sol Marbella Estepona Atalaya Park,4,"Avenida de las Golondrinas, 2, 29688 Estepona, España",España,Estepona,29688,"8,1",995,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,80
+251,2021-11-02,Hotel Trias,4,"Passeig del Mar, s/n, 17230 Palamós, España",España,Palamós,17230,"8,6",2.243,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+252,2021-11-02,Smy Puerto de la Cruz,4,"Avenida Marqués de Villanueva del Prado, 38400 Puerto de la Cruz, España",España,Cruz,38400,"7,6",1.885,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,69
+253,2021-11-02,Sallés Hotel Pere IV,4,"Pallars, 128-130, Sant Martí, 08018 Barcelona, España",España,Barcelona,08018,"8,4",5.329,nan,1,1,0,0,1,0,0,0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,108
+254,2021-11-02,Iberostar Selection Sábila - Adults Only,5,"Avenida Ernesto Sartí, 5, 38660 Adeje, España",España,Adeje,38660,"9,2",1.860,"8,5",0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,223
+255,2021-11-02,Abora Catarina by Lopesan Hotels,4,"Avenida de Tirajana, 1, 35100 Playa del Inglés, España",España,Inglés,35100,"8,1",514,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,131
+256,2021-11-02,Hotel Amoros,3,"Ses Llegitimes, 37, 07590 Cala Ratjada, España",España,Ratjada,07590,"8,3",238,"8,9",0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,52
+257,2021-11-02,Hotel Miramar,3,"Avda. Coll, 2, 35500 Arrecife, España",España,Arrecife,35500,"8,3",1.166,nan,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,78
+258,2021-11-02,Hotel Poseidon Playa,3,"Racharel, 1, 03502 Benidorm, España",España,Benidorm,03502,"8,1",2.105,"8,7",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,54
+259,2021-11-02,Hesperia Barcelona Del Mar,4,"Espronceda, 6, Sant Martí, 08005 Barcelona, España",España,Barcelona,08005,"8,2",1.755,nan,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,85
+260,2021-11-02,Exe Las Palmas,4,"Sagasta, 28, 35008 Las Palmas de Gran Canaria, España",España,Canaria,35008,"8,1",1.983,"9,0",0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,89
+261,2021-11-02,Hotel Riu Palace Tenerife,5,"Playa del Duque, 38670 Adeje, España",España,Adeje,38670,"8,8",702,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,318
+262,2021-11-02,Hipotels Hipocampo Playa,4,"Avenida Sa Coma, s/n, 07560 Cala Millor, España",España,Millor,07560,"8,8",550,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,80
+263,2021-11-02,Bahía Almuñecar,4,"Avenida Juan Carlos, 1, 18690 Almuñécar, España",España,Almuñécar,18690,"8,4",1.808,nan,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,57
+264,2021-11-02,Low Cost Marina,3,"Marina Internacional, Torrevieja, Alicante, 03181 Torrevieja, España",España,Torrevieja,03181,"6,9",263,Primera línea de playa,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,43
+265,2021-11-02,Toboso Apar - Turis,3,"Paseo Balcón de Europa, s/n, 29780 Nerja, España",España,Nerja,29780,"8,6",804,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,106
+266,2021-11-02,Hotel Playa Sur Tenerife,3,"La Gaviota, 38612 El Médano, España",España,Médano,38612,"7,6",802,"8,6",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,67
+267,2021-11-02,Hotel Regio Cádiz,3,"Avenida Ana de Viya, 11, 11009 Cádiz, España",España,Cádiz,11009,"8,2",2.170,"9,1",0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,57
+268,2021-11-02,Hotel Torá,3,"Galatzó, 3, 07160 Paguera, España",España,Paguera,07160,"8,5",300,"8,5",0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,46
+269,2021-11-02,Barceló Costa Ballena Golf & Spa,4,"Urbanización Costa Ballena. Avenida Reina Sofía, s/n, 11520 Costa Ballena, España",España,Ballena,11520,"8,5",1.328,"8,9",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,77
+270,2021-11-02,Hotel Sun Palace Albir & Spa,4,"Hércules, 1, 03581 El Albir, España",España,Albir,03581,"7,9",2.345,nan,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,82
+271,2021-11-02,La Manga Club Hotel Príncipe Felipe,5,"Los Belones, La Manga Club, 30389 La Manga del Mar Menor, España",España,Menor,30389,"8,4",1.174,"8,8",0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,137
+272,2021-11-02,Hotel Riazor,4,"Avenida Barrié de la Maza, 29, 15004 A Coruña, España",España,Coruña,15004,"8,8",3.592,"8,5",0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,73
+273,2021-11-02,Hotel Sa Clau by Mambo,4,"Progreso, 1, 07820 San Antonio, España",España,Antonio,07820,"8,8",564,"8,5",0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,88
+274,2021-11-02,Nuria,3,"Via Augusta, 145, 43007 Tarragona, España",España,Tarragona,43007,"8,2",1.710,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,72
+275,2021-11-02,Parador de Ceuta,4,"Plaza de Africa, 15, 51001 Ceuta, España",España,Ceuta,51001,"7,7",903,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,80
+276,2021-11-02,Iberostar Royal Andalus,4,"Urbanización Novo Sancti Petri, Novo Sancti Petri, 11130 Chiclana de la Frontera, España",España,Frontera,11130,"8,6",1.177,"9,4",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,92
+277,2021-11-02,Vincci Selección Estrella del Mar,5,"KM 190,5 A7 (Antigua Carretera N340) Avenida José de Ribera nº 25 ( Urbanización Real de Zaragoza), 29604 Marbella, España",España,Marbella,29604,"8,7",2.035,nan,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,143
+278,2021-11-02,Hotel Príncipe de Asturias,4,"Manso, 2, 33203 Gijón, España",España,Gijón,33203,"8,0",2.463,"8,7",0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,69
+279,2021-11-02,Melia Marbella Banús,4,"Mario Vargas Llosa, s/n, 29660 Marbella, España",España,Marbella,29660,"8,0",916,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,210
+280,2021-11-02,Hotel Voramar,4,"Avenida de los Almendros, 6, 03501 Benidorm, España",España,Benidorm,03501,"8,4",1.721,"8,7",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,71
+281,2021-11-02,Hotel Brisa,4,"Avenida de Madrid, 31, 03503 Benidorm, España",España,Benidorm,03503,"8,2",456,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,90
+282,2021-11-02,Sol Torremolinos - Don Pedro,4,"Avenida del Lido, 29620 Torremolinos, España",España,Torremolinos,29620,"8,4",949,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,84
+283,2021-11-02,Hotel Riosol,3,"Isla de Lobos, 1, 35130 Puerto Rico, España",España,Rico,35130,"7,2",1.300,"8,8",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,95
+284,2021-11-02,Hotel Apartamentos Marazul,2,"Paseo del Mediterráneo, 297, 04638 Mojácar, España",España,Mojácar,04638,"8,2",624,,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,84
+285,2021-11-02,Hotel Duque de Najera,4,"Gravina, 2, 11520 Rota, España",España,Rota,11520,"8,8",638,"9,1",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,120
+286,2021-11-02,VORAMAR,4,"Avda Delfins Polg III, nº 13-14, 07769 Cala en Forcat, España",España,Forcat,07769,"8,0",160,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,176
+287,2021-11-02,Hotel Asturias,4,"Plaza Mayor, 11, 33201 Gijón, España",España,Gijón,33201,"7,9",1.221,"8,7",0,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,59
+288,2021-11-02,Hotel Isabel,4,"Paseo Marítimo, 47, 29620 Torremolinos, España",España,Torremolinos,29620,"8,6",953,"8,6",0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,67
+289,2021-11-02,Iberostar Playa de Muro,4,"Avenida Albufera, 07408 Playa de Muro, España",España,Muro,07408,"8,9",385,"8,8",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,148
+290,2021-11-02,Hotel Spa Porta Maris by Melia,4,"Plaza Puerta Del Mar, 3-5, 03002 Alicante, España",España,Alicante,03002,"8,6",4.476,nan,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,173
+291,2021-11-02,Hotel Riu Palace Meloneras,5,"Avda. Mar Mediterráneo s/n - Las Meloneras Gran Canaria, 35100 Maspalomas, España",España,Maspalomas,35100,"8,9",399,"8,9",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,332
+292,2021-11-02,Estela Barcelona,4,"Avenida Port D'aiguadolç, 8, 08870 Sitges, España",España,Sitges,08870,"8,4",1.054,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,98
+293,2021-11-02,IFA Altamarena Hotel,4,"Avenida del Saladar, 28, 35625 Morro del Jable, España",España,Jable,35625,"7,3",212,"9,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,178
+294,2021-11-02,Benabola Hotel & Suites,4,"Paseo Benabola, bloque 3 bajo, 29660 Marbella, España",España,Marbella,29660,"7,7",1.218,nan,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,77
+295,2021-11-02,La Barracuda,3,"Avenida España, 1, 29620 Torremolinos, España",España,Torremolinos,29620,"8,2",1.941,"8,6",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,49
+296,2021-11-02,THB El Cid - Adults Only,4,"Vaixell 2, 07610 Can Pastilla, España",España,Pastilla,07610,"8,6",1.115,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,114
+297,2021-11-02,Occidental Cádiz,4,"Avenida de Andalucía, 89, 11009 Cádiz, España",España,Cádiz,11009,"8,5",1.673,"9,1",0,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,83
+298,2021-11-02,Hotel Gran Claustre Restaurant & Spa,4,"Calle del Cup, 2, 43893 Altafulla, España",España,Altafulla,43893,"8,1",934,"8,7",0,0,0,0,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,105
+299,2021-11-02,Sol Costa Atlantis Tenerife,4,"Avenida Venezuela, 15, 38400 Puerto de la Cruz, España",España,Cruz,38400,"8,1",997,nan,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,165
+300,2021-11-02,Nuria,3,"Via Augusta, 145, 43007 Tarragona, España",España,Tarragona,43007,"8,2",1.710,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,72
+301,2021-11-02,Parador de Ceuta,4,"Plaza de Africa, 15, 51001 Ceuta, España",España,Ceuta,51001,"7,7",903,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,80
+302,2021-11-02,Iberostar Royal Andalus,4,"Urbanización Novo Sancti Petri, Novo Sancti Petri, 11130 Chiclana de la Frontera, España",España,Frontera,11130,"8,6",1.177,"9,4",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,92
+303,2021-11-02,Vincci Selección Estrella del Mar,5,"KM 190,5 A7 (Antigua Carretera N340) Avenida José de Ribera nº 25 ( Urbanización Real de Zaragoza), 29604 Marbella, España",España,Marbella,29604,"8,7",2.035,nan,1,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,143
+304,2021-11-02,Hotel Príncipe de Asturias,4,"Manso, 2, 33203 Gijón, España",España,Gijón,33203,"8,0",2.463,"8,7",0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,69
+305,2021-11-02,Melia Marbella Banús,4,"Mario Vargas Llosa, s/n, 29660 Marbella, España",España,Marbella,29660,"8,0",916,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,210
+306,2021-11-02,Hotel Voramar,4,"Avenida de los Almendros, 6, 03501 Benidorm, España",España,Benidorm,03501,"8,4",1.721,"8,7",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,71
+307,2021-11-02,Hotel Brisa,4,"Avenida de Madrid, 31, 03503 Benidorm, España",España,Benidorm,03503,"8,2",456,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,90
+308,2021-11-02,Sol Torremolinos - Don Pedro,4,"Avenida del Lido, 29620 Torremolinos, España",España,Torremolinos,29620,"8,4",949,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,84
+309,2021-11-02,Marriott's Playa Andaluza,4,"Carretera de Cádiz, km 168, 29680 Estepona, España",España,Estepona,29680,"8,9",85,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,379
+310,2021-11-02,Hotel Riosol,3,"Isla de Lobos, 1, 35130 Puerto Rico, España",España,Rico,35130,"7,2",1.300,"8,8",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,95
+311,2021-11-02,Hotel Apartamentos Marazul,2,"Paseo del Mediterráneo, 297, 04638 Mojácar, España",España,Mojácar,04638,"8,2",624,,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,84
+312,2021-11-02,Hotel Duque de Najera,4,"Gravina, 2, 11520 Rota, España",España,Rota,11520,"8,8",638,"9,1",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,120
+313,2021-11-02,Hotel Simbad Ibiza & Spa,4,"Ses Figueres, 22, 07800 Talamanca, España",España,Talamanca,07800,"8,2",841,"8,6",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,79
+314,2021-11-02,VORAMAR,4,"Avda Delfins Polg III, nº 13-14, 07769 Cala en Forcat, España",España,Forcat,07769,"8,0",160,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,176
+315,2021-11-02,Hotel Asturias,4,"Plaza Mayor, 11, 33201 Gijón, España",España,Gijón,33201,"7,9",1.221,"8,7",0,1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,59
+316,2021-11-02,Hotel Isabel,4,"Paseo Marítimo, 47, 29620 Torremolinos, España",España,Torremolinos,29620,"8,6",953,"8,6",0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,67
+317,2021-11-02,Iberostar Playa de Muro,4,"Avenida Albufera, 07408 Playa de Muro, España",España,Muro,07408,"8,9",385,"8,8",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,148
+318,2021-11-02,Hotel Spa Porta Maris by Melia,4,"Plaza Puerta Del Mar, 3-5, 03002 Alicante, España",España,Alicante,03002,"8,6",4.476,nan,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,173
+319,2021-11-02,Hotel Concorde,4,"Tomás Miller, 85, 35007 Las Palmas de Gran Canaria, España",España,Canaria,35007,"7,7",1.118,"9,0",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,88
+320,2021-11-02,Hotel Riu Palace Meloneras,5,"Avda. Mar Mediterráneo s/n - Las Meloneras Gran Canaria, 35100 Maspalomas, España",España,Maspalomas,35100,"8,9",399,"8,9",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,332
+321,2021-11-02,Estela Barcelona,4,"Avenida Port D'aiguadolç, 8, 08870 Sitges, España",España,Sitges,08870,"8,4",1.054,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,98
+322,2021-11-02,IFA Altamarena Hotel,4,"Avenida del Saladar, 28, 35625 Morro del Jable, España",España,Jable,35625,"7,3",212,"9,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,1,0,0,0,0,0,0,178
+323,2021-11-02,Benabola Hotel & Suites,4,"Paseo Benabola, bloque 3 bajo, 29660 Marbella, España",España,Marbella,29660,"7,7",1.218,nan,0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0,77
+324,2021-11-02,La Barracuda,3,"Avenida España, 1, 29620 Torremolinos, España",España,Torremolinos,29620,"8,2",1.941,"8,6",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,49
+325,2021-11-02,Hotel Cleopatra Palace,4,"Avenida de las Américas, s/n, 38660 Playa de las Américas, España",España,Américas,38660,"8,9",1.336,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,246
+326,2021-11-02,Sol Principe,4,"Paseo Colorado, 26, 29620 Torremolinos, España",España,Torremolinos,29620,"7,7",1.615,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,88
+327,2021-11-02,El Ancla,3,"González Gallego,10, 39770 Laredo, España",España,Laredo,39770,"7,7",592,"9,0",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,73
+328,2021-11-02,Melia Costa del Sol,4,"Paseo Marítimo 11, Playa del Bajondillo, 29620 Torremolinos, España",España,Torremolinos,29620,"8,6",2.005,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,96
+329,2021-11-02,H10 Tindaya,4,"Punta Del Roquito s/n, 35627 Costa Calma, España",España,Calma,35627,"8,3",788,"8,8",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,120
+330,2021-11-02,Gran Hotel del Sella,4,"Ricardo Cangas, 17, 33560 Ribadesella, España",España,Ribadesella,33560,"8,5",781,"8,6",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,83
+331,2021-11-02,Hotel Monte Puertatierra,4,"Avenida de Andalucí­a, 34, 11008 Cádiz, España",España,Cádiz,11008,"8,9",1.958,"8,7",0,1,0,0,1,1,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,109
+332,2021-11-02,Odissea Park,4,"Avinguda del Mar, 15, 08398 Santa Susanna, España",España,Susanna,08398,"9,0",800,nan,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,90
+333,2021-11-02,First Flatotel International,3,"Ronda del Golf Oeste, 75, 29630 Benalmádena, España",España,Benalmádena,29630,"7,4",2.369,Primera línea de playa,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,50
+334,2021-11-02,Boho Club,5,"Urb. Lomas de Rio Verde 144, 29602 Marbella, España",España,Marbella,29602,"9,1",353,"8,7",1,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,498
+335,2021-11-02,Hotel Los Ángeles Denia,4,"Carretera Las Marinas, Km. 4, 03700 Denia, España",España,Denia,03700,"8,9",1.152,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,80
+336,2021-11-02,Hotel Angela - Adults Recommended,4,"Jaen, 2, 29640 Fuengirola, España",España,Fuengirola,29640,"8,2",446,"8,6",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,72
+337,2021-11-02,Hotel Fontana Plaza,3,"Rambla Juan Mateo, 19, 03181 Torrevieja, España",España,Torrevieja,03181,"7,7",1.196,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,70
+338,2021-11-02,Hotel Boutique Calas de Alicante,3,"Avenida Costablanca, 22 A, 03540 Alicante, España",España,Alicante,03540,"8,4",1.894,"8,8",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,55
+339,2021-11-02,ME Sitges Terramar,4,"Paseo Marítimo, 80, 08870 Sitges, España",España,Sitges,08870,"8,8",1.486,"8,9",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,157
+340,2021-11-02,Royal Park Albatros,3,"Golf del Sur, 38620 San Miguel de Abona, España",España,Abona,38620,"7,8",2.012,Playa,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,67
+341,2021-11-02,Costa del Sol Torremolinos Sustainable Boutique Hotel,nan,"Paseo del Colorado 29, 29620 Torremolinos, España",España,Torremolinos,29620,"8,5",1.249,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,60
+342,2021-11-02,Hilton Diagonal Mar Barcelona,4,"Passeig del Taulat, 262 264, Sant Martí, 08019 Barcelona, España",España,Barcelona,08019,"7,9",1.166,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,168
+343,2021-11-02,Hotel Punta Sur,3,"Carretera Nacional, 340 Km 76, 11380 Tarifa, España",España,Tarifa,11380,"9,0",220,"9,1",0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,81
+344,2021-11-02,El Tiburon Boutique Hotel & Spa (Adults Recommended),4,"Los Nidos, 7, 29620 Torremolinos, España",España,Torremolinos,29620,"8,8",1.637,"8,6",0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,52
+345,2021-11-02,Flamingo Beach Mate,4,"Avenida España, 3, 38660 Adeje, España",España,Adeje,38660,"8,7",1.373,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,265
+346,2021-11-02,Hotel Arts Barcelona,5,"Marina, 19-21, 08005 Barcelona, España",España,Barcelona,08005,"8,4",1.506,nan,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,282
+347,2021-11-02,Hotel Playa de la Plata,4,"Carretera Atlanterra kilómetro uno, 11391 Zahara de los Atunes, España",España,Atunes,11391,"8,8",501,"9,4",1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,80
+348,2021-11-02,Hotel Mar Azul & Surf,3,"Avenida Acacio Gutierrez, 98, 39340 Suances, España",España,Suances,39340,"8,3",667,"8,8",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,1,59
+349,2021-11-02,Dreams Lanzarote Playa Dorada Resort & Spa,5,"Urbanización Costa del Papagayo, 35570 Playa Blanca, España",España,Blanca,35570,"8,7",1.534,"8,8",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,208
+350,2021-11-02,NH Gijón,4,"Doctor Fleming, s/n, 33203 Gijón, España",España,Gijón,33203,"8,3",995,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,103
+351,2021-11-02,Medplaya Hotel Pez Espada,4,"Calle Salvador Allende, 11, 29620 Torremolinos, España",España,Torremolinos,29620,"8,5",786,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,68
+352,2021-11-02,Hotel Negresco - Adults Only,4,"Neopatria, 2, 07610 Playa de Palma, España",España,Palma,07610,"8,9",1.394,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,82
+353,2021-11-02,Corallium Dunamar by Lopesan Hotels,4,"Helsinki, 8, 35100 Playa del Inglés, España",España,Inglés,35100,"8,3",132,"8,7",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,332
+354,2021-11-02,Masd Mediterraneo Hotel Apartamentos Spa,4,"Passeig Maritim, 50, 08860 Castelldefels, España",España,Castelldefels,08860,"8,7",1.204,nan,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,144
+355,2021-11-02,Hotel Playa Golf,4,"Carretera del Arenal, 45, 07600 Playa de Palma, España",España,Palma,07600,"8,6",1.056,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,83
+356,2021-11-02,AluaSoul Palma Hotel Adults Only,4,"Maestro Ekithai Ahn - Cala Estancia, 07610 Can Pastilla, España",España,Pastilla,07610,"8,4",644,"8,5",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,90
+357,2021-11-02,Boutique X,nan,"68 Avenida Condes de San Isidro, 29640 Fuengirola, España",España,Fuengirola,29640,"8,6",736,"8,6",1,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,80
+358,2021-11-02,Iberostar Grand El Mirador - Adults Only,5,"Avenida de Bruselas, s/n, 38660 Adeje, España",España,Adeje,38660,"9,4",410,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,491
+359,2021-11-02,Gran Hotel Montesol Ibiza,5,"Paseo Vara de Rey, 2, 07800 Ibiza, España",España,Ibiza,07800,"8,6",332,nan,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,221
+360,2021-11-02,Sol Torremolinos - Don Pablo,4,"Paseo Marítimo, s/n, 29620 Torremolinos, España",España,Torremolinos,29620,"8,5",1.569,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,84
+361,2021-11-02,Hipotels La Geria,4,"Jupiter, 5, 35510 Puerto del Carmen, España",España,Carmen,35510,"8,7",638,"8,6",0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,128
+362,2021-11-02,Sercotel Hotel Palacio del Mar,4,"Alcalde Vega Lamera, 5, 390005 Santander, España",España,Santander,390005,"8,2",1.595,"9,1",0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,69
+363,2021-11-02,Hotel del Golf Playa,4,"Avenida del Golf, 2, 12100 Grao de Castellón, España",España,Castellón,12100,"7,1",735,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,41
+364,2021-11-02,Mac Puerto Marina Benalmádena,4,"Avenida del Puerto Deportivo, s/n, 29630 Benalmádena, España",España,Benalmádena,29630,"8,8",982,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,119
+365,2021-11-02,Hotel Riu Calypso - Adults Only,4,"Playa de Jandia Fuerteventura, 35625 Playa de Jandía, España",España,Jandía,35625,"8,2",74,"9,6",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,217
+366,2021-11-02,Hotel Agua Azul - Adults Only,4,"Emilio Ortuño 7 , 03501 Benidorm, España",España,Benidorm,03501,"8,3",98,"8,7",0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,76
+367,2021-11-02,"Hotel Faro, a Lopesan Collection Hotel",5,"Plaza De Colón, 1, 35100 Maspalomas, España",España,Maspalomas,35100,"8,6",129,"8,9",1,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,362
+368,2021-11-02,Estepona Hotel & Spa Resort,4,"Arroyo Vaquero Playa, carretera A-7 km 150, 29680 Estepona, España",España,Estepona,29680,"8,5",800,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,153
+369,2021-11-02,Hotel Riu Palace Jandia,5,"Playa de Jandia, s/n, 35625 Playa de Jandía, España",España,Jandía,35625,"8,7",367,"9,6",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,208
+370,2021-11-02,Hotel Floresta,3,"Mercurio, 2, 35510 Puerto del Carmen, España",España,Carmen,35510,"8,6",765,Playa,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,119
+371,2021-11-02,Don Carlos Resort & Spa,5,"Avenida Zurita, s/n, 29600 Marbella, España",España,Marbella,29600,"8,7",910,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,211
+372,2021-11-02,Hotel RH Corona del Mar 4* Sup,4,"Avenida Jaime I, 3, 03502 Benidorm, España",España,Benidorm,03502,"8,7",814,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,85
+373,2021-11-02,Hotel Boutique Villa Favorita,4,"Zubieta Kalea 26, 20007 San Sebastián, España",España,Sebastián,20007,"9,5",181,"9,1",0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,179
+374,2021-11-02,Apartamentos Llobet Ibiza,4,"Alejandro Llobet, 6-8, 07800 Ibiza, España",España,Ibiza,07800,"9,1",1.310,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,98
+375,2021-11-02,The Oasis by Don Carlos Resort,5,"Avenida Zurita s/n, 29604 Marbella, España",España,Marbella,29604,"8,9",204,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,478
+376,2021-11-02,Suites del Mar by Melia,4,"Plaza Puerta del Mar, 3-5, 03002 Alicante, España",España,Alicante,03002,"8,9",1.266,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,266
+377,2021-11-02,Princesa Yaiza Suite Hotel Resort,5,"Avenida de Papagayo, 22, 35580 Playa Blanca, España",España,Blanca,35580,"8,8",487,"8,8",1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,355
+378,2021-11-02,W Barcelona,5,"Plaça Rosa dels Vents, 1 - Passeig Joan de Borbo, Ciutat Vella, 08039 Barcelona, España",España,Barcelona,08039,"8,5",3.842,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,326
+379,2021-11-02,Nobu Hotel Marbella,5,"Avenida Bulevar Príncipe Alfonso de Hohenlohe, 29602 Marbella, España",España,Marbella,29602,"8,9",689,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,550
+380,2021-11-02,Apartamentos Turisticos Fresno,3,"Avenida la Purisima 33, 03182 Torrevieja, España",España,Torrevieja,03182,"8,0",386,Playa,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,47
+381,2021-11-02,Sol Lanzarote,4,"Grama, 2, 35510 Puerto del Carmen, España",España,Carmen,35510,"8,3",505,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,165
+382,2021-11-02,Castilla Termal Balneario Solares,4,"Calvo Soltelo, 13, 39710 Solares, España",España,Solares,39710,"8,7",1.440,nan,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,111
+383,2021-11-02,Hotel Son Caliu Spa Oasis,4,"Avenida Son Caliu, 8, 07181 Palmanova, España",España,Palmanova,07181,"8,9",1.046,"8,6",0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,76
+384,2021-11-02,Hotel Fariones,5,"Roque del Este, 1, 35510 Puerto del Carmen, España",España,Carmen,35510,"9,4",162,"8,7",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,491
+385,2021-11-02,Hotel Estrella Norte,4,"Juan Hormaechea, s/n, 39195 Isla, España",España,Isla,39195,"7,8",334,"8,6",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,72
+386,2021-11-02,Blue Line Apartment Hotel,4,"11 Avinguda Marina Baixa, 03570 Villajoyosa, España",España,Villajoyosa,03570,"9,3",292,nan,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,148
+387,2021-11-02,Iberostar Gaviotas Park-All inclusive,4,"Urbanización Las Gaviotas, Pasaje Playa, 3, 35626 Morro del Jable, España",España,Jable,35626,"8,7",111,"9,2",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,224
+388,2021-11-02,Apartaments B-Llobet Sun & Confort,4,"Avenida Pere Matutes Noguera, 20, 07800 Ibiza, España",España,Ibiza,07800,"9,2",641,nan,0,1,0,0,1,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,171
+389,2021-11-02,Hotel Spa Cádiz Plaza,4,"Glorieta Ingeniero La Cierva, 3, 11010 Cádiz, España",España,Cádiz,11010,"8,4",1.440,"9,1",0,1,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,84
+390,2021-11-02,Iberostar Playa Gaviotas-All inclusive,4,"Urbanización Las Gaviotas. Pasaje Playa, 2, 35626 Morro del Jable, España",España,Jable,35626,"9,0",232,"9,2",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,247
+391,2021-11-02,Puente Romano Beach Resort,5,"Bulevar Príncipe Alfonso von Hohenlohe s/n, 29602 Marbella, España",España,Marbella,29602,"8,8",598,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,1,726
+392,2021-11-02,Las Arenas Balneario Resort,5,"Eugenia Viñes, 22 - 24, Poblados marítimos, 46011 Valencia, España",España,Valencia,46011,"8,9",2.220,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,240
+393,2021-11-02,Hotel AR Golf Almerimar,5,"Avenida Arquitecto Julián Laguna, s/n, 04711 Almerimar, España",España,Almerimar,04711,"8,7",292,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,142
+394,2021-11-02,Six Senses Ibiza,5,"Carrer Cami­ de sa Torre 71, 07810 Portinatx, España",España,Portinatx,07810,"8,3",49,"9,0",1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,595
+395,2021-11-02,Iberostar Selection Playa de Palma,5,"Marbella, 36, 07610 Playa de Palma, España",España,Palma,07610,"8,9",961,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,298
+396,2021-11-02,Hotel Pazo Los Escudos Spa & Beach,5,"Avenida Atlántida, 106, 36208 Vigo, España",España,Vigo,36208,"9,0",991,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,138
+397,2021-11-02,Cristine Bedfor,5,"17 Carrer de la Infanta, 07702 Mahón, España",España,Mahón,07702,"9,4",57,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,129
+398,2021-11-02,Iberostar Grand Salomé - Adults Only,5,"Londres, 15, 38660 Adeje, España",España,Adeje,38660,"9,0",41,"8,5",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1.033
+399,2021-11-02,"Vincci Selección Aleysa, Hotel Boutique & Spa",5,"Avenida Antonio Machado, 54, 29630 Benalmádena, España",España,Benalmádena,29630,"9,6",470,"8,6",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,225
+400,2021-11-02,Las Arenas Balneario Resort,5,"Eugenia Viñes, 22 - 24, Poblados marítimos, 46011 Valencia, España",España,Valencia,46011,"8,9",2.220,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,240
+401,2021-11-02,Hotel AR Golf Almerimar,5,"Avenida Arquitecto Julián Laguna, s/n, 04711 Almerimar, España",España,Almerimar,04711,"8,7",292,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,142
+402,2021-11-02,Six Senses Ibiza,5,"Carrer Cami­ de sa Torre 71, 07810 Portinatx, España",España,Portinatx,07810,"8,3",49,"9,0",1,0,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,595
+403,2021-11-02,Iberostar Selection Playa de Palma,5,"Marbella, 36, 07610 Playa de Palma, España",España,Palma,07610,"8,9",961,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,298
+404,2021-11-02,Cristine Bedfor,5,"17 Carrer de la Infanta, 07702 Mahón, España",España,Mahón,07702,"9,4",57,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,129
+405,2021-11-02,Iberostar Grand Salomé - Adults Only,5,"Londres, 15, 38660 Adeje, España",España,Adeje,38660,"9,0",41,"8,5",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1.033
+406,2021-11-02,"Vincci Selección Aleysa, Hotel Boutique & Spa",5,"Avenida Antonio Machado, 54, 29630 Benalmádena, España",España,Benalmádena,29630,"9,6",470,"8,6",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,225
+407,2021-11-02,Secrets Mallorca Villamil Resort & Spa - Adults Only (+18),5,"Secrets Mallorca Villamil , 07160 Paguera, España",España,Paguera,07160,"8,6",359,"8,5",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,269
+408,2021-11-02,Seaside Palm Beach,5,"Avenida del Oasis, s/n, 35100 Maspalomas, España",España,Maspalomas,35100,"9,1",612,"8,9",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,342
+409,2021-11-02,Morasol Suites,4,"Juan Díaz Rodríguez, 12, 35130 Puerto Rico, España",España,Rico,35130,"8,8",45,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,201
+410,2021-11-02,Bohemia Suites & Spa - Adults Only,5,"Avenida Estados Unidos, 28, 35100 Playa del Inglés, España",España,Inglés,35100,"8,9",344,"8,7",0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,320
+411,2021-11-02,Marbella Club Hotel · Golf Resort & Spa,5,"Bulevar Príncipe Alfonso Von Hohenlohe, s/n, 29600 Marbella, España",España,Marbella,29600,"9,3",301,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,792
+412,2021-11-02,Complejo turístico Quinta La Espadaña,4,"calla el LLugar s./n. BEDRIÑANA  VILLAVICIOSA, 33315 Bedriñana, España",España,Bedriñana,33315,"8,7",67,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,115
+413,2021-11-02,Aparthotel Attica21 As Galeras,3,"Antonio J. de Sucre, 17, 15179 Bastiagueiro, España",España,Bastiagueiro,15179,"8,8",845,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,49
+414,2021-11-02,Hotel Mestral Perelló,2,"C/ Major, 25, 43519 El Perelló, España",España,Perelló,43519,"8,8",41,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,53
+415,2021-11-02,Hotel Puente de los Santos,1,"Av. De Galicia 15, 33740 Tapia de Casariego, España",España,Casariego,33740,"8,5",346,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+416,2021-11-02,Hotel Lo Monte,1,"Carretera N332, km. 42,5, 03190 Pilar de la Horadada, España",España,Horadada,03190,"8,6",518,"8,5",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+417,2021-11-02,HOTEL MIRAMAR,1,"CARRETERA NACIONAL 340 TORREBLANCA SPAIN, 12596 Torreblanca, España",España,Torreblanca,12596,"6,8",143,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,27
+418,2021-11-02,Hotel A´Marisqueira,2,"Rua Barcala 51.01 (Bajo), 15176 Oleiros, España",España,Oleiros,15176,"8,4",475,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,37
+419,2021-11-02,Parador de El Hierro,3,"Las Playas, 15, 38900 Las Casas, España",España,Casas,38900,"8,2",591,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,165
+420,2021-11-02,Hotel Valdoviño,2,"O Barreiro, AC-116, 15552 Valdoviño, España",España,Valdoviño,15552,"8,7",327,"9,2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+421,2021-11-02,Posada de Pedreña,2,"B/ Onso, 178, 39130 Pedreña, España",España,Pedreña,39130,"8,6",157,"8,5",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47
+422,2021-11-02,Hotel Alda Sada Marina,nan,"Avenida da Mariña s/n, 15160 Sada, España",España,Sada,15160,"8,5",1.426,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+423,2021-11-02,Hotel Palacio de Cristal,2,"Arcadio Pardiñas, 154, 27880 Burela, España",España,Burela,27880,"8,8",1.146,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,30
+424,2021-11-02,Hotel Piedra,3,"Barrio Espasa, 6, 33491 Perlora, España",España,Perlora,33491,"7,8",865,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,39
+425,2021-11-02,HOTEL MIRAMAR,1,"CARRETERA NACIONAL 340 TORREBLANCA SPAIN, 12596 Torreblanca, España",España,Torreblanca,12596,"6,8",143,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,27
+426,2021-11-02,Hotel A´Marisqueira,2,"Rua Barcala 51.01 (Bajo), 15176 Oleiros, España",España,Oleiros,15176,"8,4",475,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,37
+427,2021-11-02,Parador de El Hierro,3,"Las Playas, 15, 38900 Las Casas, España",España,Casas,38900,"8,2",591,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,165
+428,2021-11-02,Hotel Valdoviño,2,"O Barreiro, AC-116, 15552 Valdoviño, España",España,Valdoviño,15552,"8,7",327,"9,2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+429,2021-11-02,Hotel Alda Sada Marina,nan,"Avenida da Mariña s/n, 15160 Sada, España",España,Sada,15160,"8,5",1.426,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+430,2021-11-02,Hotel Palacio de Cristal,2,"Arcadio Pardiñas, 154, 27880 Burela, España",España,Burela,27880,"8,8",1.146,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,30
+431,2021-11-02,Hotel Piedra,3,"Barrio Espasa, 6, 33491 Perlora, España",España,Perlora,33491,"7,8",865,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,39
+432,2021-11-02,Pensión o noso bar,2,"David Mariló ramos 15 Portosin, 15999 Portosín, España",España,Portosín,15999,"8,4",150,"9,0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,35
+433,2021-11-02,Hotel Aloha,2,"Avenida Mediterráneo, 74, 12530 Burriana, España",España,Burriana,12530,"6,6",189,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,65
+434,2021-11-02,Atrium Hotel,3,"Avda. Antonio Segado Del Olmo 20, 30877 Bolnuevo, España",España,Bolnuevo,30877,"9,0",451,"8,5",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,78
+435,2021-11-02,Hotel Viento del Norte,2,"San Juan de Espasante, 8, 15339 Porto de Espasante, España",España,Espasante,15339,"8,8",432,"9,0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,50
+436,2021-11-02,Hotel a Barquina,nan,"Plaza Santa Gema 7 BLOQUE 7 BAJO, 15174 Culleredo, España",España,Culleredo,15174,"8,3",248,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,31
+437,2021-11-02,Hotel Herbeira,3,"Cordobelas S/N, 15350 Cedeira, España",España,Cedeira,15350,"9,3",366,"8,6",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,60
+438,2021-11-02,Hotel Nordés,3,"Avenida da Mariña, 57, 27880 Burela, España",España,Burela,27880,"8,8",665,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,40
+439,2021-11-02,Hotel Camargo,3,"Barrio Bojar 2, 03960 Igollo, España",España,Igollo,03960,"7,5",368,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+440,2021-11-02,Te Maná Hotel,2,"Av. Valencia 4, 12596 Torreblanca, España",España,Torreblanca,12596,"8,6",523,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,44
+441,2021-11-02,Can Busquets,nan,"Miramar, 24, 07191 Banyalbufar, España",España,Banyalbufar,07191,"8,8",274,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,112
+442,2021-11-02,Hotel Olympia Valencia,4,"Maestro Serrano, 5, 46120 Alboraya, España",España,Alboraya,46120,"7,8",1.654,nan,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,70
+443,2021-11-02,Hotel Norat Palmeira Playa,4,"Lugar playa de Insuela s/n , 15950 Ribeira, España",España,Ribeira,15950,"8,2",958,"8,6",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,50
+444,2021-11-02,Hotel Ramis,1,"Mariano Benlliure, 6, 03760 Ondara, España",España,Ondara,03760,"8,5",405,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+445,2021-11-02,Hotel Gastronómico Casa Rosalia,2,"Soigrexa 19 Os Anxeles, 15280 Brión, España",España,Brión,15280,"9,4",268,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,65
+446,2021-11-02,Hotel Villa de Marin,3,"Concepción Arenal, 37, 36900 Marín, España",España,Marín,36900,"7,8",252,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,65
+447,2021-11-02,CASA DO ARXENTINO,nan,"Rúa Cividanes nº 9 - Mera - OLEIROS, 15177 Mera, España",España,Mera,15177,"7,8",30,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,77
+448,2021-11-02,Hotel Jardín Tecina,4,"Lomada de Tecina, s/n, 38811 Playa de Santiago, España",España,Santiago,38811,"8,2",505,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,172
+449,2021-11-02,Hotel Gijon,3,"Pedro Duro, 6, 33206 Gijón, España",España,Gijón,33206,"8,5",671,"8,7",0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,60
+450,2021-11-02,Iberostar Selection Playa de Palma,5,"Marbella, 36, 07610 Playa de Palma, España",España,Palma,07610,"8,9",961,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,298
+451,2021-11-02,Hotel Pazo Los Escudos Spa & Beach,5,"Avenida Atlántida, 106, 36208 Vigo, España",España,Vigo,36208,"9,0",991,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,138
+452,2021-11-02,Cristine Bedfor,5,"17 Carrer de la Infanta, 07702 Mahón, España",España,Mahón,07702,"9,4",57,nan,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,129
+453,2021-11-02,Iberostar Grand Salomé - Adults Only,5,"Londres, 15, 38660 Adeje, España",España,Adeje,38660,"9,0",41,"8,5",0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1.033
+454,2021-11-02,"Vincci Selección Aleysa, Hotel Boutique & Spa",5,"Avenida Antonio Machado, 54, 29630 Benalmádena, España",España,Benalmádena,29630,"9,6",470,"8,6",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,225
+455,2021-11-02,Secrets Mallorca Villamil Resort & Spa - Adults Only (+18),5,"Secrets Mallorca Villamil , 07160 Paguera, España",España,Paguera,07160,"8,6",359,"8,5",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,269
+456,2021-11-02,Seaside Palm Beach,5,"Avenida del Oasis, s/n, 35100 Maspalomas, España",España,Maspalomas,35100,"9,1",612,"8,9",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,342
+457,2021-11-02,Morasol Suites,4,"Juan Díaz Rodríguez, 12, 35130 Puerto Rico, España",España,Rico,35130,"8,8",45,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,201
+458,2021-11-02,Bohemia Suites & Spa - Adults Only,5,"Avenida Estados Unidos, 28, 35100 Playa del Inglés, España",España,Inglés,35100,"8,9",344,"8,7",0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,320
+459,2021-11-02,Marbella Club Hotel · Golf Resort & Spa,5,"Bulevar Príncipe Alfonso Von Hohenlohe, s/n, 29600 Marbella, España",España,Marbella,29600,"9,3",301,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,792
+460,2021-11-02,Complejo turístico Quinta La Espadaña,4,"calla el LLugar s./n. BEDRIÑANA  VILLAVICIOSA, 33315 Bedriñana, España",España,Bedriñana,33315,"8,7",67,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,115
+461,2021-11-02,Aparthotel Attica21 As Galeras,3,"Antonio J. de Sucre, 17, 15179 Bastiagueiro, España",España,Bastiagueiro,15179,"8,8",845,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,49
+462,2021-11-02,Hotel Mestral Perelló,2,"C/ Major, 25, 43519 El Perelló, España",España,Perelló,43519,"8,8",41,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,53
+463,2021-11-02,Hotel Puente de los Santos,1,"Av. De Galicia 15, 33740 Tapia de Casariego, España",España,Casariego,33740,"8,5",346,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55
+464,2021-11-02,Hotel Lo Monte,1,"Carretera N332, km. 42,5, 03190 Pilar de la Horadada, España",España,Horadada,03190,"8,6",518,"8,5",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+465,2021-11-02,HOTEL MIRAMAR,1,"CARRETERA NACIONAL 340 TORREBLANCA SPAIN, 12596 Torreblanca, España",España,Torreblanca,12596,"6,8",143,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,27
+466,2021-11-02,Hotel A´Marisqueira,2,"Rua Barcala 51.01 (Bajo), 15176 Oleiros, España",España,Oleiros,15176,"8,4",475,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,37
+467,2021-11-02,Parador de El Hierro,3,"Las Playas, 15, 38900 Las Casas, España",España,Casas,38900,"8,2",591,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,165
+468,2021-11-02,Hotel Valdoviño,2,"O Barreiro, AC-116, 15552 Valdoviño, España",España,Valdoviño,15552,"8,7",327,"9,2",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40
+469,2021-11-02,Hotel Alda Sada Marina,nan,"Avenida da Mariña s/n, 15160 Sada, España",España,Sada,15160,"8,5",1.426,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41
+470,2021-11-02,Hotel Palacio de Cristal,2,"Arcadio Pardiñas, 154, 27880 Burela, España",España,Burela,27880,"8,8",1.146,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,30
+471,2021-11-02,Hotel Piedra,3,"Barrio Espasa, 6, 33491 Perlora, España",España,Perlora,33491,"7,8",865,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,39
+472,2021-11-02,Pensión o noso bar,2,"David Mariló ramos 15 Portosin, 15999 Portosín, España",España,Portosín,15999,"8,4",150,"9,0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,35
+473,2021-11-02,Hotel Aloha,2,"Avenida Mediterráneo, 74, 12530 Burriana, España",España,Burriana,12530,"6,6",189,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,65
+474,2021-11-02,Atrium Hotel,3,"Avda. Antonio Segado Del Olmo 20, 30877 Bolnuevo, España",España,Bolnuevo,30877,"9,0",451,"8,5",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,78
+475,2021-11-02,Hotel Viento del Norte,2,"San Juan de Espasante, 8, 15339 Porto de Espasante, España",España,Espasante,15339,"8,8",432,"9,0",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,50
+476,2021-11-02,Hotel a Barquina,nan,"Plaza Santa Gema 7 BLOQUE 7 BAJO, 15174 Culleredo, España",España,Culleredo,15174,"8,3",248,"8,7",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,31
+477,2021-11-02,Hotel Herbeira,3,"Cordobelas S/N, 15350 Cedeira, España",España,Cedeira,15350,"9,3",366,"8,6",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,60
+478,2021-11-02,Hotel Nordés,3,"Avenida da Mariña, 57, 27880 Burela, España",España,Burela,27880,"8,8",665,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,40
+479,2021-11-02,Hotel Camargo,3,"Barrio Bojar 2, 03960 Igollo, España",España,Igollo,03960,"7,5",368,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+480,2021-11-02,Te Maná Hotel,2,"Av. Valencia 4, 12596 Torreblanca, España",España,Torreblanca,12596,"8,6",523,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,44
+481,2021-11-02,Can Busquets,nan,"Miramar, 24, 07191 Banyalbufar, España",España,Banyalbufar,07191,"8,8",274,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,112
+482,2021-11-02,Hotel Olympia Valencia,4,"Maestro Serrano, 5, 46120 Alboraya, España",España,Alboraya,46120,"7,8",1.654,nan,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,70
+483,2021-11-02,Hotel Norat Palmeira Playa,4,"Lugar playa de Insuela s/n , 15950 Ribeira, España",España,Ribeira,15950,"8,2",958,"8,6",0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,50
+484,2021-11-02,Hotel Ramis,1,"Mariano Benlliure, 6, 03760 Ondara, España",España,Ondara,03760,"8,5",405,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+485,2021-11-02,Hotel Gastronómico Casa Rosalia,2,"Soigrexa 19 Os Anxeles, 15280 Brión, España",España,Brión,15280,"9,4",268,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,65
+486,2021-11-02,Hotel Villa de Marin,3,"Concepción Arenal, 37, 36900 Marín, España",España,Marín,36900,"7,8",252,"8,6",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,65
+487,2021-11-02,CASA DO ARXENTINO,nan,"Rúa Cividanes nº 9 - Mera - OLEIROS, 15177 Mera, España",España,Mera,15177,"7,8",30,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,77
+488,2021-11-02,Hotel Jardín Tecina,4,"Lomada de Tecina, s/n, 38811 Playa de Santiago, España",España,Santiago,38811,"8,2",505,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,172
+489,2021-11-02,Hotel Gijon,3,"Pedro Duro, 6, 33206 Gijón, España",España,Gijón,33206,"8,5",671,"8,7",0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,60
+490,2021-11-02,Hotel Vela,2,"Plaça Catalunya, 2, 17480 Roses, España",España,Roses,17480,"8,4",1.983,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,1,1,0,51
+491,2021-11-02,Hotel Maycar,2,"San Andrés, 159, 15003 A Coruña, España",España,Coruña,15003,"7,7",850,"8,5",0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,38
+492,2021-11-02,Hotel Spa Milagros Golf,4,"Playa de Usil, 771, 39310 Mogro, España",España,Mogro,39310,"8,3",1.396,"8,5",0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,60
+493,2021-11-02,Can Solé,2,"Ramon Llull, 19-21, 43850 Cambrils, España",España,Cambrils,43850,"8,1",1.026,nan,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,41
+494,2021-11-02,Miraolas,3,"Paseo De San Anton, 18, 33500 Llanes, España",España,Llanes,33500,"8,1",1.877,"8,8",0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,54
+495,2021-11-02,"Cap Rocat, a Small Luxury Hotel of the World",5,"Carretera d'Enderrocat, s/n, 07609 Cala Blava, España",España,Blava,07609,"9,6",179,nan,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0,894
+496,2021-11-02,Hotel Niza,3,"Zubieta, 56, 20007 San Sebastián, España",España,Sebastián,20007,"8,5",2.248,"9,1",0,1,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,55
+497,2021-11-02,O Son Do Mar,1,"Rua Madrid, 32, 36960 Sanxenxo, España",España,Sanxenxo,36960,"8,4",804,"8,6",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,49
+498,2021-11-02,Grupotel Acapulco Playa - Adults Only,4,"Carrer Costa Brava, 2, 07610 Playa de Palma, España",España,Palma,07610,"8,6",1.064,"8,5",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,85
+499,2021-11-02,Hotel SB BCN Events 4* Sup,4,"Passeig de Can Rabadà, 22 - 24, 08860 Castelldefels, España",España,Castelldefels,08860,"8,4",2.742,"8,7",1,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,74
+500,2021-11-02,Hotel Guardamar,2,"Puerto Rico, 11, 03140 Guardamar del Segura, España",España,Segura,03140,"8,7",755,"8,8",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+501,2021-11-02,La Galería,2,"Infanta Cristina, 1-3, 20008 San Sebastián, España",España,Sebastián,20008,"8,5",1.010,"8,8",1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,49
+502,2021-11-02,Best Western Plus Hotel Alfa Aeropuerto,4,"Calle K, s/n (Entrada principal Mercabarna), Sants-Montjuïc, 08040 Barcelona, España",España,Barcelona,08040,"8,4",1.644,nan,1,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,1,102
+503,2021-11-02,Hotel Bilbaino,3,"Virgen Del Sufragio, 1, 03501 Benidorm, España",España,Benidorm,03501,"8,2",733,"8,6",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,30
+504,2021-11-02,Hotel Carmen,2,"Boulevard La Cala, 7, 29649 La Cala de Mijas, España",España,Mijas,29649,"9,0",431,nan,0,1,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,58
+505,2021-11-02,Hotel Boutique Andalucia,2,"Calle Troncón 59, 29640 Fuengirola, España",España,Fuengirola,29640,"7,9",238,"8,6",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,43
+506,2021-11-02,El Paso,3,"Cartagena, 13, 30880 Águilas, España",España,Águilas,30880,"7,4",628,"9,1",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,40
+507,2021-11-02,Don Hotel,2,"Travesia do Tobal,12, 36940 Cangas de Morrazo, España",España,Morrazo,36940,"7,2",1.060,"8,7",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,30
+508,2021-11-02,Voramar,4,"Paseo Maritimo Pilar Coloma, 1, 12560 Benicàssim, España",España,Benicàssim,12560,"8,9",1.010,"8,9",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,51
+509,2021-11-02,Hotel Benidorm City Olympia,3,"C/ ALT, 2, 03501 Benidorm, España",España,Benidorm,03501,"8,0",1.725,"8,7",0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,1,0,58
+510,2021-11-02,Hotel Buenavista,nan,"Avenida España, 180, 29680 Estepona, España",España,Estepona,29680,"7,0",944,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,0,0,0,0,1,40
+511,2021-11-02,Hotel Mardevela,2,"Avenida de León, 50, 36960 Sanxenxo, España",España,Sanxenxo,36960,"9,4",993,"8,6",0,0,0,0,1,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,40
+512,2021-11-02,Hotel Primavera,2,"Gardenias, 12, 03501 Benidorm, España",España,Benidorm,03501,"8,6",1.162,"8,7",0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,29
+513,2021-11-02,VIK Gran Hotel Costa del Sol,4,"Urbanización La Butibamba, s/n, 29649 La Cala de Mijas, España",España,Mijas,29649,"7,4",2.807,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,56
+514,2021-11-02,Hotel Oreneta,2,"Oreneta, 1, 43893 Altafulla, España",España,Altafulla,43893,"8,6",784,"8,7",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,43
+515,2021-11-02,Hotel Simón,1,"La Fuente, 38, 04638 Mojácar, España",España,Mojácar,04638,"7,7",829,nan,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,55
+516,2021-11-02,Hotel Airiños 3*,3,"Avenida Eugenio Sequeiros, 30, 36940 Cangas de Morrazo, España",España,Morrazo,36940,"8,7",975,"8,5",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,40
+517,2021-11-02,Hotel Roca,2,"N-340, Km.1049, 12500 Vinaròs, España",España,Vinaròs,12500,"7,0",764,nan,0,0,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,39
+518,2021-11-02,Hotel Vent de Mar,3,"ISLA DE CORCEGA, 61, 46520 Puerto Sagunto, España",España,Sagunto,46520,"7,6",205,"8,8",0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,37
+519,2021-11-02,La Goleta Hotel de Mar - Adults Only,4,"Paseo Saralegui, 118, 07470 Puerto Pollensa, España",España,Pollensa,07470,"9,4",313,"8,6",1,0,0,0,1,1,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,108
+520,2021-11-02,Hotel María Cristina,4,"Avda. Papa Luna, 8, 12598 Peñíscola, España",España,Peñíscola,12598,"8,9",193,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,60
+521,2021-11-02,Port Vista Oro,3,"Ruzafa, 39, 03501 Benidorm, España",España,Benidorm,03501,"8,0",1.085,"8,7",0,1,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,48
+522,2021-11-02,Parador de El Saler,5,"Avenida de los Pinares, 151, 46012 El Saler, España",España,Saler,46012,"8,1",364,nan,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,250
+523,2021-11-02,Hotel Apartamentos Princesa Playa,4,"Antonio Montero Sanchez s/n (Paseo Marítimo), 29602 Marbella, España",España,Marbella,29602,"8,4",1.794,Primera línea de playa,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,69
+524,2021-11-02,BQ Andalucia Beach Hotel,4,"Paseo Marítimo de Poniente, s/n, 29740 Torre del Mar, España",España,Mar,29740,"8,5",1.490,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0,58
+525,2021-11-02,Hotel L'Escala,2,"Marques de La Romana, 4, 46480 Cullera, España",España,Cullera,46480,"7,9",754,"8,8",0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+526,2021-11-02,Hotel Carril,4,"Lucena, 18, 36610 Vilagarcía de Arousa, España",España,Arousa,36610,"8,8",598,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,58
+527,2021-11-02,Hotel Tamariu,3,"Passeig del Mar, 2, 17212 Tamariu, España",España,Tamariu,17212,"9,2",339,"9,0",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,66
+528,2021-11-02,Hotel Montemar,3,"San Pedro, 16, 03501 Benidorm, España",España,Benidorm,03501,"8,6",509,"8,7",0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,57
+529,2021-11-02,Hotel MiM Sitges,4,"Avenida Sofia, 12, 08870 Sitges, España",España,Sitges,08870,"8,8",1.752,"8,5",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,119
+530,2021-11-02,Hotel Real Castellon,2,"Plaza del Real, 2, 12001 Castellón de la Plana, España",España,Plana,12001,"6,5",691,nan,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,40
+531,2021-11-02,Carlos III,3,"Carretera De Sant Carlos A Alcanar Playa Km4, 43530 Sant Carles de la Ràpita, España",España,Ràpita,43530,"8,4",1.573,"8,7",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,51
+532,2021-11-02,Hotel La Noria,2,"Diputación, 7, 21440 Lepe, España",España,Lepe,21440,"7,7",526,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,25
+533,2021-11-02,Hotel Ayamontino,2,"Avenida de Andalucía, 35, 21100 Punta Umbría, España",España,Umbría,21100,"8,6",894,"8,7",0,1,0,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,47
+534,2021-11-02,Hotel Ritual Torremolinos- Adults Only,3,"Brasil, 2, 29620 Torremolinos, España",España,Torremolinos,29620,"8,5",2.498,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,1,52
+535,2021-11-02,H10 Porto Poniente 4* Sup,4,"24 Calle San Pedro, 03501 Benidorm, España",España,Benidorm,03501,"8,6",1.152,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,75
+536,2021-11-02,Hotel Diamar,3,"Avenida Fred Olsen, 8, 35500 Arrecife, España",España,Arrecife,35500,"8,3",929,nan,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,62
+537,2021-11-02,Mare Estepona Hotel,3,"Avenida San Lorenzo, 32, 29680 Estepona, España",España,Estepona,29680,"7,6",935,nan,0,1,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,54
+538,2021-11-02,Hotel Estrella Del Mar,1,"Moral, s/n, 18613 Motril, España",España,Motril,18613,"8,0",380,nan,0,1,0,0,1,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,57
+539,2021-11-02,Hotel Apartamentos Solimar,3,"Vilamar, 79, 43820 Calafell, España",España,Calafell,43820,"8,3",1.074,"8,8",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,54
+540,2021-11-02,Hotel Costa Brava,3,"Punta d'en Ramis, 17250 Platja d'Aro, España",España,d'Aro,17250,"8,6",2.263,"8,6",0,0,0,0,1,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,79
+541,2021-11-02,Oca Playa de Foz Hotel&Spa,4,"Avenida del Cantábrico, 17, 27780 Foz, España",España,Foz,27780,"8,8",763,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,59
+542,2021-11-02,Hotel Riu Buenavista - All Inclusive,4,"Horno, 35, Urb. Playa Paraíso Tenerife, 38678 Adeje, España",España,Adeje,38678,"8,5",3.324,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,169
+543,2021-11-02,La Pared powered by Playitas - Sports Hotel,nan,"Avenida del Istimo, 35627 La Pared, España",España,Pared,35627,"8,5",126,"8,9",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,128
+544,2021-11-02,Hotel Leyton,2,"6 Avenida da Mariña Avenida da Mariña, 6, 27780 Foz, España",España,Foz,27780,"5,4",143,"8,7",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,45
+545,2021-11-02,Es Racó d´Artà,5,"Camí des Racó  Ctra. De Cala Mitjana  Km 1,5, 07570 Artà, España",España,Artà,07570,"8,9",38,nan,1,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,322
+546,2021-11-02,Hotel Vila Mar,2,"Pais Basc, 10, 43850 Cambrils, España",España,Cambrils,43850,"8,3",570,nan,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,41
+547,2021-11-02,Servatur Casablanca Suites & Spa - Adults Only,4,"Avenida de Gran Canaria, 24, 35130 Puerto Rico, España",España,Rico,35130,"8,4",2.116,"8,8",1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,152
+548,2021-11-02,Hotel Talaso Louxo La Toja,4,"Isla de Toja, s/n, 36991 Isla de La Toja, España",España,Toja,36991,"8,9",2.393,nan,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,57
+549,2021-11-02,Gran Hotel Sol y Mar - Adults Only,4,"Benidorm, 3, 03710 Calpe, España",España,Calpe,03710,"9,2",3.402,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,117
+550,2021-11-02,Senator Gandia Spa Hotel,4,"Carrer Atlantic, 79, 46730 Gandía, España",España,Gandía,46730,"8,5",1.246,"9,1",0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,59
+551,2021-11-02,Barceló Teguise Beach - Adults Only,4,"Plaza Janubio s/n, 35508 Costa Teguise, España",España,Teguise,35508,"8,9",3.023,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,229
+552,2021-11-02,Hotel Villa Barbara,1,"Calle Playa, 17 , 07458 Can Picafort, España",España,Picafort,07458,"7,5",412,"8,6",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,32
+553,2021-11-02,Malaga Premium Hotel,3,"Calle San Juan, 11, Centro de Málaga, 29005 Málaga, España",España,Málaga,29005,"8,6",1.380,nan,0,1,0,0,1,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,90
+554,2021-11-02,Hotel Playa Compostela,3,"Avenida Rosalía de Castro, 138, 36610 Vilagarcía de Arousa, España",España,Arousa,36610,"8,8",525,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,50
+555,2021-11-02,Hotel Spa Pinar del Mar,3,"Avenida S' Agaró, 157, 17250 Platja d'Aro, España",España,d'Aro,17250,"8,1",1.003,"8,5",0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,1,47
+556,2021-11-02,Hotel 525,4,"Río Borines, 30710 Los Alcázares, España",España,Alcázares,30710,"8,6",1.516,nan,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,146
+557,2021-11-02,Hotel Almirante,1,"Paseo de Ronda, 54, 15011 A Coruña, España",España,Coruña,15011,"7,8",895,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,30
+558,2021-11-02,Port Benidorm Hotel & Spa 4* Sup,4,"Estocolmo, 4, 03503 Benidorm, España",España,Benidorm,03503,"8,2",5.022,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,65
+559,2021-11-02,Cullera Holiday,4,"Avenida del Racó, 27, 46400 Cullera, España",España,Cullera,46400,"8,1",3.003,"8,8",0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,49
+560,2021-11-02,Hotel La Parrita,2,"Sagrado Corazon de Jesús, 61, 11520 Rota, España",España,Rota,11520,"8,5",453,"8,7",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,46
+561,2021-11-02,Hotel Cooee Taimar,4,"Calle Valle de los Mosquitos 4, 35627 Costa Calma, España",España,Calma,35627,"8,9",256,"8,8",1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,95
+562,2021-11-02,Marina,2,"Gran Via, 36, 33560 Ribadesella, España",España,Ribadesella,33560,"7,4",524,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52
+563,2021-11-02,Estival Torrequebrada,4,"Avenida del Sol, 89, 29630 Benalmádena, España",España,Benalmádena,29630,"8,7",1.842,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,66
+564,2021-11-02,Hotel Llane Petit,3,"Playa Llané Petit S/N, 17488 Cadaqués, España",España,Cadaqués,17488,"8,8",557,"8,5",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,137
+565,2021-11-02,The Corner House Boutique,nan,"Carrer Juan Sebastian el cano 48, 07560 Cala Ratjada, España",España,Ratjada,07560,"7,0",182,"8,9",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+566,2021-11-02,Sunset Beach Club Hotel Apartments,4,"Avenida del Sol, 5, 29630 Benalmádena, España",España,Benalmádena,29630,"8,2",3.528,"8,6",1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,62
+567,2021-11-02,Palas Pineda,4,"Muntanyals, s/n, 43481 La Pineda, España",España,Pineda,43481,"7,9",4.244,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,37
+568,2021-11-02,Prince Park,3,"Primavera, 3, 03501 Benidorm, España",España,Benidorm,03501,"8,0",2.386,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,36
+569,2021-11-02,Benalmadena Palace Spa,4,"Camino de Gilabert, s/n, 29630 Benalmádena, España",España,Benalmádena,29630,"8,4",2.327,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,61
+570,2021-11-02,Hotel THe Lumm,4,"Calle Simón Bolívar, 35006 Las Palmas de Gran Canaria, España",España,Canaria,35006,"9,1",47,"9,0",0,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,115
+571,2021-11-02,Hacienda San Jorge,3,"Playa de los Cancajos, 22, 38712 Breña Baja, España",España,Baja,38712,"8,6",845,nan,0,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0,0,0,1,0,0,0,0,0,0,98
+572,2021-11-02,Hotel Sant Jordi,4,"De Grua, 5, 07610 Playa de Palma, España",España,Palma,07610,"8,3",446,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,61
+573,2021-11-02,tent Capi Playa,3,"Costa Brava, 4, 07600 Playa de Palma, España",España,Palma,07600,"8,5",345,"8,5",0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,52
+574,2021-11-02,Hotel Olimpo,4,"Finca Los Cuarezos, s/n, 39195 Isla, España",España,Isla,39195,"8,2",1.656,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,54
+575,2021-11-02,Hotel Almirante,1,"Paseo de Ronda, 54, 15011 A Coruña, España",España,Coruña,15011,"7,8",895,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,30
+576,2021-11-02,Cullera Holiday,4,"Avenida del Racó, 27, 46400 Cullera, España",España,Cullera,46400,"8,1",3.003,"8,8",0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,49
+577,2021-11-02,Hotel La Parrita,2,"Sagrado Corazon de Jesús, 61, 11520 Rota, España",España,Rota,11520,"8,5",453,"8,7",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,48
+578,2021-11-02,Hotel Cooee Taimar,4,"Calle Valle de los Mosquitos 4, 35627 Costa Calma, España",España,Calma,35627,"8,9",256,"8,8",1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,95
+579,2021-11-02,Marina,2,"Gran Via, 36, 33560 Ribadesella, España",España,Ribadesella,33560,"7,4",524,"8,6",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52
+580,2021-11-02,Estival Torrequebrada,4,"Avenida del Sol, 89, 29630 Benalmádena, España",España,Benalmádena,29630,"8,7",1.842,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,68
+581,2021-11-02,Hotel Llane Petit,3,"Playa Llané Petit S/N, 17488 Cadaqués, España",España,Cadaqués,17488,"8,8",557,"8,5",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,137
+582,2021-11-02,The Corner House Boutique,nan,"Carrer Juan Sebastian el cano 48, 07560 Cala Ratjada, España",España,Ratjada,07560,"7,0",182,"8,9",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+583,2021-11-02,Sunset Beach Club Hotel Apartments,4,"Avenida del Sol, 5, 29630 Benalmádena, España",España,Benalmádena,29630,"8,2",3.528,"8,6",1,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,62
+584,2021-11-02,Palas Pineda,4,"Muntanyals, s/n, 43481 La Pineda, España",España,Pineda,43481,"7,9",4.244,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,37
+585,2021-11-02,Prince Park,3,"Primavera, 3, 03501 Benidorm, España",España,Benidorm,03501,"8,0",2.386,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,36
+586,2021-11-02,Benalmadena Palace Spa,4,"Camino de Gilabert, s/n, 29630 Benalmádena, España",España,Benalmádena,29630,"8,4",2.327,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,61
+587,2021-11-02,Hotel THe Lumm,4,"Calle Simón Bolívar, 35006 Las Palmas de Gran Canaria, España",España,Canaria,35006,"9,1",47,"9,0",0,1,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,115
+588,2021-11-02,Hotel Sant Jordi,4,"De Grua, 5, 07610 Playa de Palma, España",España,Palma,07610,"8,3",446,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,1,61
+589,2021-11-02,tent Capi Playa,3,"Costa Brava, 4, 07600 Playa de Palma, España",España,Palma,07600,"8,5",345,"8,5",0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,52
+590,2021-11-02,Hotel Olimpo,4,"Finca Los Cuarezos, s/n, 39195 Isla, España",España,Isla,39195,"8,2",1.656,"8,6",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,54
+591,2021-11-02,Hotel Ancora,3,"Josep Pla, s/n, 17230 Palamós, España",España,Palamós,17230,"8,5",860,"9,1",0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,61
+592,2021-11-02,Hotel Ría de Suances,3,"Avenida José Antonio, 45, 39340 Suances, España",España,Suances,39340,"7,6",516,"8,8",0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,40
+593,2021-11-02,Hotel Juan Carlos,1,"Apolo, 85, 03182 Torrevieja, España",España,Torrevieja,03182,"7,2",199,nan,0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,50
+594,2021-11-02,Hotel La Española,2,"Isaac Peral, 4-6, 11550 Chipiona, España",España,Chipiona,11550,"9,0",293,"8,5",0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,36
+595,2021-11-02,Hotel The Sky - Adults Only,4,"Calle Bustamante, 40, 07590 Cala Ratjada, España",España,Ratjada,07590,"9,2",313,"8,9",1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,111
+596,2021-11-02,Hotel Cap Negret,4,"N-332 Alicante-Valencia, Km.159, 03590 Altea, España",España,Altea,03590,"9,0",3.230,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,81
+597,2021-11-02,Hotel Vila da Guarda,2,"Tomiño, 8, 36780 A Guarda, España",España,Guarda,36780,"8,9",1.113,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,45
+598,2021-11-02,Hotel Miramar,1,"Avenida de España, 26, 11300 La Línea de la Concepción, España",España,Concepción,11300,"6,4",626,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+599,2021-11-02,Hotel Casa Bonay,4,"Gran Via de les Corts Catalanes, 700, Eixample, 08010 Barcelona, España",España,Barcelona,08010,"9,0",685,nan,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,168
+600,2021-11-02,Parador de Ayamonte,4,"Avenida de la Constitución, s/n, 21400 Ayamonte, España",España,Ayamonte,21400,"8,3",644,nan,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,115
+601,2021-11-02,Hotel Nuevo Portil Golf,4,"Calle Cristobal Colón S/N , 21459 El Rompido, España",España,Rompido,21459,"9,0",1.985,nan,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,74
+602,2021-11-02,Hotel Las Arenas,4,"Avenida Antonio Machado, 22, 29630 Benalmádena, España",España,Benalmádena,29630,"8,6",335,"8,6",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,69
+603,2021-11-02,Parque Mar,4,"Gabriel Miro, s/n, 03140 Guardamar del Segura, España",España,Segura,03140,"7,7",866,"8,8",0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,55
+604,2021-11-02,Ona Alanda Club Marbella,4,"Avenida de los Jardines de las Golondrinas, 1, 29604 Marbella, España",España,Marbella,29604,"8,7",1.755,nan,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0,85
+605,2021-11-02,A Esmorga-Posada del Mar,nan,"Lucena 16, 36610 Vilagarcía de Arousa, España",España,Arousa,36610,"9,0",196,nan,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,70
+606,2021-11-02,Hotel Alameda,3,"Alameda, 34, 03501 Benidorm, España",España,Benidorm,03501,"8,7",949,"8,6",0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,42
+607,2021-11-02,Silken Río Santander,4,"Avenida Reina Victoria, 153, 39005 Santander, España",España,Santander,39005,"8,3",2.996,"9,0",0,0,0,0,1,0,1,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,63
+608,2021-11-02,Iberostar Málaga Playa,4,"Paseo Maritimo de Ferrara, s/n, 29793 Torrox Costa, España",España,Costa,29793,"8,5",1.185,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,67
+609,2021-11-02,Hotel Trias,4,"Passeig del Mar, s/n, 17230 Palamós, España",España,Palamós,17230,"8,6",2.243,"8,6",0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,61
+610,2021-11-02,Hotel SB Diagonal Zero Barcelona 4* Sup,4,"Plaça de Llevant, s/n, Sant Martí, 08019 Barcelona, España",España,Barcelona,08019,"7,8",5.941,nan,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,90
+611,2021-11-02,Smy Puerto de la Cruz,4,"Avenida Marqués de Villanueva del Prado, 38400 Puerto de la Cruz, España",España,Cruz,38400,"7,6",1.885,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,69
+612,2021-11-02,Hotel Villa de Laredo,3,"Paseo Marítimo Rey de España, 42, 29640 Fuengirola, España",España,Fuengirola,29640,"7,8",597,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,51
+613,2021-11-02,Hotel Marina,4,"Cuenca, 6, 03503 Benidorm, España",España,Benidorm,03503,"7,9",2.191,"8,6",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+614,2021-11-02,Hotel A Roldana,2,"Rúa Bernardo Romero sector 3 parcela 2, 15578 Narón, España",España,Narón,15578,"9,1",563,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,114
+615,2021-11-02,Hotel Ivory Playa Sports & Spa,3,"Carretera Port d'Alcúdia - Artà, 113, 07400 Puerto de Alcudia, España",España,Alcudia,07400,"8,9",674,,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,55
+616,2021-11-02,Abora Catarina by Lopesan Hotels,4,"Avenida de Tirajana, 1, 35100 Playa del Inglés, España",España,Inglés,35100,"8,1",514,"8,7",0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,131
+617,2021-11-02,Hotel Diamante,3,"Palmira, 4, 07160 Paguera, España",España,Paguera,07160,"8,6",159,"8,5",0,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,45
+618,2021-11-02,Hotel Paloma,2,"Río Edesma, 47, 30740 San Pedro del Pinatar, España",España,Pinatar,30740,"7,6",168,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,33
+619,2021-11-02,Parador de Ferrol,3,"Plaza Contralmirante Azarola Gresillon, S/N, 15401 Ferrol, España",España,Ferrol,15401,"8,6",269,"9,2",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80
+620,2021-11-02,Hotel Arha Santander,3,"Ruiz de Alda, 15, 39009 Santander, España",España,Santander,39009,"6,4",1.115,"8,6",0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,45
+621,2021-11-02,Peñiscola Plaza Suites,4,"Avenida Papa Luna, 156, 12598 Peñíscola, España",España,Peñíscola,12598,"8,1",2.489,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,68
+622,2021-11-02,Botel Alcudiamar,4,"Passeig Marítim, 1, 07410 Puerto de Alcudia, España",España,Alcudia,07410,"9,1",120,"8,7",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,124
+623,2021-11-02,Hotel el Mirador de Fuerteventura,4,"Carretera Playa Blanca 45, 35600 Puerto del Rosario, España",España,Rosario,35600,"8,7",1.271,nan,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,74
+624,2021-11-02,Hotel Rosamar,3,"Avenida Derramador, 6, 03503 Benidorm, España",España,Benidorm,03503,"7,4",308,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,56
+625,2021-11-02,Hotel Alameda,3,"Alameda, 34, 03501 Benidorm, España",España,Benidorm,03501,"8,7",949,"8,6",0,1,0,0,1,1,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,42
+626,2021-11-02,Hotel SB Diagonal Zero Barcelona 4* Sup,4,"Plaça de Llevant, s/n, Sant Martí, 08019 Barcelona, España",España,Barcelona,08019,"7,8",5.941,nan,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,90
+627,2021-11-02,Hotel Villa de Laredo,3,"Paseo Marítimo Rey de España, 42, 29640 Fuengirola, España",España,Fuengirola,29640,"7,8",597,"8,6",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,51
+628,2021-11-02,Hotel Marina,4,"Cuenca, 6, 03503 Benidorm, España",España,Benidorm,03503,"7,9",2.191,"8,6",0,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+629,2021-11-02,Hotel A Roldana,2,"Rúa Bernardo Romero sector 3 parcela 2, 15578 Narón, España",España,Narón,15578,"9,1",563,nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,114
+630,2021-11-02,Hotel Ivory Playa Sports & Spa,3,"Carretera Port d'Alcúdia - Artà, 113, 07400 Puerto de Alcudia, España",España,Alcudia,07400,"8,9",674,,0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,55
+631,2021-11-02,Hotel Diamante,3,"Palmira, 4, 07160 Paguera, España",España,Paguera,07160,"8,6",159,"8,5",0,1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,45
+632,2021-11-02,Hotel Paloma,2,"Río Edesma, 47, 30740 San Pedro del Pinatar, España",España,Pinatar,30740,"7,6",168,nan,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,33
+633,2021-11-02,Parador de Ferrol,3,"Plaza Contralmirante Azarola Gresillon, S/N, 15401 Ferrol, España",España,Ferrol,15401,"8,6",269,"9,2",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,80
+634,2021-11-02,Hotel Arha Santander,3,"Ruiz de Alda, 15, 39009 Santander, España",España,Santander,39009,"6,4",1.115,"8,6",0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,45
+635,2021-11-02,Peñiscola Plaza Suites,4,"Avenida Papa Luna, 156, 12598 Peñíscola, España",España,Peñíscola,12598,"8,1",2.489,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,68
+636,2021-11-02,Botel Alcudiamar,4,"Passeig Marítim, 1, 07410 Puerto de Alcudia, España",España,Alcudia,07410,"9,1",120,"8,7",1,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,124
+637,2021-11-02,Hotel el Mirador de Fuerteventura,4,"Carretera Playa Blanca 45, 35600 Puerto del Rosario, España",España,Rosario,35600,"8,7",1.271,nan,0,1,0,0,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,74
+638,2021-11-02,Hotel Rosamar,3,"Avenida Derramador, 6, 03503 Benidorm, España",España,Benidorm,03503,"7,4",308,"8,6",0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,56
+639,2021-11-02,Hotel & Spa La Residencia Puerto,4,"Calle Alcalde Juan Nunez, 8, 11380 Tarifa, España",España,Tarifa,11380,"9,3",1.182,"8,7",0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,1,112
+640,2021-11-02,Hotel Servigroup La Zenia,4,"Urbanización La Zenia, s/n, 03189 Playas de Orihuela, España",España,Orihuela,03189,"8,7",929,"8,7",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,117
+641,2021-11-02,Arrayanes Playa,3,"Paseo de Cotobro, 5, 18690 Almuñécar, España",España,Almuñécar,18690,"7,3",347,nan,0,1,0,0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,38
+642,2021-11-02,Hotel Meridional,4,"Avenida de la Libertad, 64, 03140 Guardamar del Segura, España",España,Segura,03140,"7,9",650,"8,8",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,77
+643,2021-11-02,Las Palmeras,4,"Calle Martinez Catena, 6, 29640 Fuengirola, España",España,Fuengirola,29640,"7,1",856,"8,6",0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,0,0,60
+644,2021-11-02,Hotel Martín Alonso Pinzón,4,"Avenida de los Conquistadores, s/n, 21130 Mazagón, España",España,Mazagón,21130,"7,2",1.593,"8,5",1,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0,55
+645,2021-11-02,Beach Hotel Dos Mares,3,"Carretera Cadiz-Malaga, Km 79.5, 11380 Tarifa, España",España,Tarifa,11380,"8,8",1.049,"9,0",0,1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,101
+646,2021-11-02,Las Rocas Playa Hotel,4,"Flaviobriga, 1, 39700 Castro Urdiales, España",España,Urdiales,39700,"8,7",1.903,"8,5",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,66
+647,2021-11-02,Hotel de Londres y de Inglaterra,4,"Zubieta, 2, 20007 San Sebastián, España",España,Sebastián,20007,"8,9",3.179,"9,1",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,114
+648,2021-11-02,Hotel Golden,3,"Avenida Jaime I, 10, 03501 Benidorm, España",España,Benidorm,03501,"8,3",260,"8,7",0,0,0,0,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,87
+649,2021-11-02,Hotel Playa Sol,4,"Carrer de Pianc, 3, 17488 Cadaqués, España",España,Cadaqués,17488,"9,3",612,"8,6",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,126
+650,2021-11-02,Hotel MR Les Rotes,4,"Barranc del Monyo, 85, 03700 Denia, España",España,Denia,03700,"8,7",634,nan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,97
+651,2021-11-02,Hotel Miami Mar,4,"Passeig Marítim, 20, 43540 Sant Carles de la Ràpita, España",España,Ràpita,43540,"8,9",703,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,87
+652,2021-11-02,Albir Playa Hotel & Spa,4,"Camino Viejo de Altea, 51, 03581 El Albir, España",España,Albir,03581,"7,8",542,nan,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,0,0,0,0,0,89
+653,2021-11-02,Complejo Al Sur,4,"Carretera La Barrosa, esquina C/ Bonito , 11139 Chiclana de la Frontera, España",España,Frontera,11139,"8,5",765,Playa,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,48
+654,2021-11-02,Hotel El Marino,2,"Muñoz, 2, 30720 Santiago de la Ribera, España",España,Ribera,30720,"8,4",105,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,48
+655,2021-11-02,Hotel Bendinat,4,"Andrés Ferret Sobral, 1, 07181 Portals Nous, España",España,Nous,07181,"8,8",324,"8,7",0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,0,1,0,0,0,0,0,0,251
+656,2021-11-02,Hotel Bristol,4,"Plaza Dr. Fleming, 2, 03501 Benidorm, España",España,Benidorm,03501,"8,0",944,"8,7",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,0,70
+657,2021-11-02,Parador de Baiona,4,"Arquitecto Valverde, s/n, 36300 Baiona, España",España,Baiona,36300,"8,7",1.199,"8,8",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,150
+658,2021-11-02,Alcudia Garden Aparthotel,3,"Avenida de la Playa, 1, 07408 Puerto de Alcudia, España",España,Alcudia,07408,"8,1",331,,0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,74
+659,2021-11-02,Hotel Rusadir,4,"Pablo Vallesca 5, 52001 Melilla, España",España,Melilla,52001,"7,8",459,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,56
+660,2021-11-02,Hotel Albohera,3,"Marin Esquina Bolarin, s/n, 30720 Santiago de la Ribera, España",España,Ribera,30720,"8,0",158,nan,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,39
+661,2021-11-02,Hotel Bahía Bayona,3,"Avenida Santa Marta, 13, 36308 Baiona, España",España,Baiona,36308,"7,4",395,"8,8",0,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,55
+662,2021-11-02,Hôte The Corralejo Beach,nan,"Fuerteventura, 35640 La Oliva, España",España,Oliva,35640,nan,nan,nan,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,63
+663,2021-11-02,Parador de Benicarló,4,"Avenida Papa Luna, 5, 12580 Benicarló, España",España,Benicarló,12580,"8,3",462,nan,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,1,90
+664,2021-11-02,Parador de Mojácar,4,"Avenida del Mediterráneo, 339, 04638  Mojácar, España",España,Mojácar,04638,"8,7",656,nan,0,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,115
+665,2021-11-02,La Casona de Revolgo,4,"Parque de Revolgo, 3, 39330 Santillana del Mar, España",España,Mar,39330,"8,9",710,nan,0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,65
+666,2021-11-02,Arrecife Gran Hotel & Spa,5,"Parque Islas Canarias, s/n, 35500 Arrecife, España",España,Arrecife,35500,"8,7",621,nan,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,155
+667,2021-11-02,Eix Platja Daurada Hotel & SPA,4,"Passeig Colom, s/n, 07458 Can Picafort, España",España,Picafort,07458,"8,1",171,Primera línea de playa,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,48
+668,2021-11-02,Parador de Nerja,4,"Almuñecar, 8, 29780 Nerja, España",España,Nerja,29780,"8,9",898,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,125
+669,2021-11-02,PLAYABALLENA SPA HOTEL,4,"Avenida Juan Carlos I, s/n, 11520 Costa Ballena, España",España,Ballena,11520,"8,4",769,"8,9",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,63
+670,2021-11-02,Apartamentos Ben-Hur,2,"Calle Mar Menor 24 Las Maravillas, 07610 Playa de Palma, España",España,Palma,07610,"8,1",514,nan,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,64
+671,2021-11-02,Hostal la Campana,1,"carboneros, 3, 11300 La Línea de la Concepción, España",España,Concepción,11300,"7,0",442,nan,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,45
+672,2021-11-02,Lasala Plaza Hotel,4,"De Lasala Plaza 2, 20003 San Sebastián, España",España,Sebastián,20003,"9,4",1.758,"9,1",0,1,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,194
+673,2021-11-02,Gran Hotel Miramar GL,5,"Paseo de Reding, 22, Centro de Málaga, 29016 Málaga, España",España,Málaga,29016,"9,2",2.497,nan,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,325
+674,2021-11-02,SPIRIT GARDEN Tarifa,nan,"Km 82.6, N-340, 11380 Tarifa, Cadiz, Spanien, 11380 Tarifa, España",España,Tarifa,11380,"8,3",284,"9,0",0,1,0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,43
+675,2021-11-02,Hotel Cosmopol,3,"Avenida de Cantabria, 27, 39770 Laredo, España",España,Laredo,39770,"7,9",241,"9,0",0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,65
+676,2021-11-02,Hotel Cimbel,4,"Avenida Europa, 1, 03503 Benidorm, España",España,Benidorm,03503,"8,7",2.320,"8,6",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,94
+677,2021-11-02,Elke Spa Hotel,4,"Rambla del Portalet, 8  , 17220 Sant Feliu de Guíxols, España",España,Guíxols,17220,"9,2",597,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,143
+678,2021-11-02,Can Simoneta - Adults Only,5,"Carretera de Artá a Canyamel, Km 8, 07580 Canyamel, España",España,Canyamel,07580,"9,4",163,nan,0,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,576
+679,2021-11-02,FERGUS Style Palmanova - Adults Only,4,"Paseo del Mar, 14, 07181 Palmanova, España",España,Palmanova,07181,"9,1",838,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,104
+680,2021-11-02,Apartamentos Llobet Ibiza,4,"Alejandro Llobet, 6-8, 07800 Ibiza, España",España,Ibiza,07800,"9,1",1.310,nan,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,98
+681,2021-11-02,Hotel Chiqui,3,"Avenida García Lago, 9, 39005 Santander, España",España,Santander,39005,"8,6",3.256,"9,1",0,0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,64
+682,2021-11-02,Hotel Villa Rosario,4,"Dionisio Ruiz Sánchez, 6, 33560 Ribadesella, España",España,Ribadesella,33560,"9,3",571,"8,6",0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,130
+683,2021-11-02,Carabela,4,"Avenida Paguera 44, 07160 Paguera, España",España,Paguera,07160,"8,1",141,"8,5",0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,113
+684,2021-11-02,PALMA BEACH HOTEL & APT Adults Only,3,"4 Carrer de la Pollacra, 07610 Can Pastilla, España",España,Pastilla,07610,"8,8",139,,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,63
+685,2021-11-02,Alborán Algeciras,4,"Álamos, s/n, Colonia San Miguel, 11205 Algeciras, España",España,Algeciras,11205,"8,4",543,nan,0,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,62
+686,2021-11-02,APARTAMENTOS MAR Y GOLF,3,"Avenida Diagonal S/N, 04740 Roquetas de Mar, España",España,Mar,04740,"6,9",776,,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,50
+687,2021-11-02,Hotel Casa Vilella 4* Sup,4,"Passeig Marítim 21, 08870 Sitges, España",España,Sitges,08870,"9,6",472,"8,5",0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,151
+688,2021-11-02,The Oasis by Don Carlos Resort,5,"Avenida Zurita s/n, 29604 Marbella, España",España,Marbella,29604,"8,9",204,nan,1,0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,478
+689,2021-11-02,Hotel Villa del Mar,4,"Avenida de la Armada Española, 1, 03500 Benidorm, España",España,Benidorm,03500,"8,7",1.049,"8,7",0,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,111
+690,2021-11-02,Mazagonia,4,"Avenida Santa Clara, 36, 21130 Mazagón, España",España,Mazagón,21130,"8,1",195,"8,5",0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,95
+691,2021-11-02,XQ El Palacete,4,"Acantilado S/N, 35625 Morro del Jable, España",España,Jable,35625,"9,2",96,"9,6",0,1,0,0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,1,0,0,0,0,0,0,265
+692,2021-11-02,Portixol Hotel & Restaurant,4,"Sirena, 27, 07006 Palma de Mallorca, España",España,Mallorca,07006,"9,3",395,nan,1,0,0,0,1,0,0,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,0,0,306
+693,2021-11-02,Iberostar Selection Playa de Palma,5,"Marbella, 36, 07610 Playa de Palma, España",España,Palma,07610,"8,9",961,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,0,298
+694,2021-11-02,Hotel Pazo Los Escudos Spa & Beach,5,"Avenida Atlántida, 106, 36208 Vigo, España",España,Vigo,36208,"9,0",991,"8,5",0,0,0,0,1,0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,138
+695,2021-11-02,Maritim Playa,3,"Avenida de Tenerife, 10, 35100 Playa del Inglés, España",España,Inglés,35100,"8,0",153,,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,168
+696,2021-11-02,Aparthotel Ola Blanca,4,"Torremanzanas, 6, 03509 Cala de Finestrat, España",España,Finestrat,03509,"9,0",489,Playa,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,1,94
+697,2021-11-02,Grand Palladium Palace Ibiza Resort & Spa- All Inclusive,5,"Carretera Playa d'en Bossa, s/n, 07817 Playa d'en Bossa, España",España,Bossa,07817,"8,2",546,nan,1,0,0,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,217
+698,2021-11-02,mision costa,4,"calle lago de bristol no 2, 35660 Corralejo, España",España,Corralejo,35660,"6,8",4,"8,5",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,0,1,95
+699,2021-11-02,El Palauet Barcelona,nan,"Passeig de Gràcia, 113, Gracia, 08008 Barcelona, España",España,Barcelona,08008,"8,8",31,nan,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,1.142
